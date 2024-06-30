@@ -84,5 +84,4 @@ try:
             driver.sleep(10)
 
 finally:
-    # Quit the driver when done
     driver.quit()
