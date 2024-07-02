@@ -1,87 +1,89 @@
+# scraper.py
+
 from bs4 import BeautifulSoup
 from seleniumbase import Driver
+def scrape_moneybox_support():
+    # Initialize the driver with the User-Agent switch enabled (uc=True)
+    driver = Driver(uc=True)
+    scrapedData = ''
+    try:
+        # Open the webpage
+        driver.get("https://www.moneyboxapp.com/support/")
 
-# Initialize the driver with the User-Agent switch enabled (uc=True)
-driver = Driver(uc=True)
+        # Wait for the page to fully load and bypass CAPTCHA (if any)
+        driver.sleep(30)
 
-try:
-    # Open the webpage
-    driver.get("https://www.moneyboxapp.com/support/")
+        # Get page source after CAPTCHA is bypassed
+        page_source = driver.page_source
 
-    # Wait for the page to fully load and bypass CAPTCHA (if any)
-    driver.sleep(30)
+        # Parse the page source with BeautifulSoup
+        soup = BeautifulSoup(page_source, 'html.parser')
 
-    # Get page source after CAPTCHA is bypassed
-    page_source = driver.page_source
+        # Find the FAQ section
+        faq_section = soup.find('section', class_="layout_support")
 
-    # Parse the page source with BeautifulSoup
-    soup = BeautifulSoup(page_source, 'html.parser')
+        # Find all FAQ tiles within the section
+        faq_tiles = faq_section.find_all('a', class_='col-3 tile')
 
-    # Find the FAQ section
-    faq_section = soup.find('section', class_="layout_support")
+        # Iterate through each FAQ tile and scrape the data
+        for tile in faq_tiles:
+            try:
+                title = tile.find('strong', class_='title').text
+                link = tile['href']
+                driver.get(link)
+                driver.sleep(10)
 
-    # Find all FAQ tiles within the section
-    faq_tiles = faq_section.find_all('a', class_='col-3 tile')
+                # Get page source of the FAQ detail page
+                faq_page_source = driver.page_source
 
-    # Iterate through each FAQ tile and scrape the data
-    for tile in faq_tiles:
-        try:
-            title = tile.find('strong', class_='title').text
-            link = tile['href']
-            driver.get(link)
-            driver.sleep(10)
+                # Parse the FAQ detail page with BeautifulSoup
+                faq_soup = BeautifulSoup(faq_page_source, 'html.parser')
 
-            # Get page source of the FAQ detail page
-            faq_page_source = driver.page_source
+                # Find all related question links
+                ul_elements = faq_soup.find('aside').find('ul')
+                li_elements = ul_elements.find_all('li')
 
-            # Parse the FAQ detail page with BeautifulSoup
-            faq_soup = BeautifulSoup(faq_page_source, 'html.parser')
+                for li in li_elements:
+                    try:
+                        related_title = li.text.strip()
+                        related_link = li.find('a')['href']
 
-            # Find all related question links
-            ul_elements = faq_soup.find('aside').find('ul')
-            li_elements = ul_elements.find_all('li')
+                        # Navigate to the link
+                        driver.get(related_link)
+                        driver.sleep(10)
 
-            for li in li_elements:
-                try:
-                    related_title = li.text.strip()
-                    related_link = li.find('a')['href']
+                        # Get the new page source and parse with BeautifulSoup
+                        qn_page_source = driver.page_source
+                        qn_soup = BeautifulSoup(qn_page_source, 'html.parser')
 
-                    # Navigate to the link
-                    driver.get(related_link)
-                    driver.sleep(10)
+                        # Find the content
+                        content_div = qn_soup.find('div', itemprop='acceptedAnswer') or qn_soup.find('div', class_='theiaStickySidebar')
 
-                    # Get the new page source and parse with BeautifulSoup
-                    qn_page_source = driver.page_source
-                    qn_soup = BeautifulSoup(qn_page_source, 'html.parser')
+                        if (content_div):
+                            paragraphs = content_div.find_all('p')
+                            content = "\n".join([paragraph.text for paragraph in paragraphs])
+                        else:
+                            content = "Content not found or this page does not exist."
 
-                    # Find the content
-                    content_div = qn_soup.find('div', itemprop='acceptedAnswer') or qn_soup.find('div', class_='theiaStickySidebar')
+                        # Append the scraped data
+                        scrapedData += f"Title: {related_title}\n"
+                        scrapedData += f"Content: {content}\n"
+                        scrapedData += "-" * 30 + "\n"
 
-                    if content_div:
-                        paragraphs = content_div.find_all('p')
-                        content = "\n".join([paragraph.text for paragraph in paragraphs])
-                    else:
-                        content = "Content not found or this page does not exist."
+                        # Go back to the initial page
+                        driver.back()
+                        driver.sleep(10)
 
-                    # Print the scraped data
-                    print(f"Title: {related_title}")
-                    print(f"Link: {related_link}")
-                    print(f"Content: {content}")
-                    print("-" * 30)
+                    except AttributeError:
+                        print(f"Related question not found or page does not exist for link: {related_link}")
+                        driver.back()
+                        driver.sleep(10)
 
-                    # Go back to the initial page
-                    driver.back()
-                    driver.sleep(10)  # Adjust the sleep time as needed
+            except AttributeError:
+                print(f"FAQ tile not found or page does not exist for link: {link}")
+                driver.back()
+                driver.sleep(10)
+    finally:
+        driver.quit()
 
-                except AttributeError:
-                    print(f"Related question not found or page does not exist for link: {related_link}")
-                    driver.back()
-                    driver.sleep(10)
-
-        except AttributeError:
-            print(f"FAQ tile not found or page does not exist for link: {link}")
-            driver.back()
-            driver.sleep(10)
-
-finally:
-    driver.quit()
+    return scrapedData
