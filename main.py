@@ -1,7 +1,6 @@
-# scraper.py
-
 from bs4 import BeautifulSoup
 from seleniumbase import Driver
+
 def scrape_moneybox_support():
     # Initialize the driver with the User-Agent switch enabled (uc=True)
     driver = Driver(uc=True)
@@ -25,65 +24,75 @@ def scrape_moneybox_support():
         # Find all FAQ tiles within the section
         faq_tiles = faq_section.find_all('a', class_='col-3 tile')
 
-        # Iterate through each FAQ tile and scrape the data
-        for tile in faq_tiles:
-            try:
-                title = tile.find('strong', class_='title').text
-                link = tile['href']
-                driver.get(link)
-                driver.sleep(10)
+        # Open a file to write the scraped data
+        with open('scraped_data.txt', 'w', encoding='utf-8') as file:
+            # Iterate through each FAQ tile and scrape the data
+            for tile in faq_tiles:
+                try:
+                    title = tile.find('strong', class_='title').text
+                    link = tile['href']
+                    driver.get(link)
+                    driver.sleep(10)
 
-                # Get page source of the FAQ detail page
-                faq_page_source = driver.page_source
+                    # Get page source of the FAQ detail page
+                    faq_page_source = driver.page_source
 
-                # Parse the FAQ detail page with BeautifulSoup
-                faq_soup = BeautifulSoup(faq_page_source, 'html.parser')
+                    # Parse the FAQ detail page with BeautifulSoup
+                    faq_soup = BeautifulSoup(faq_page_source, 'html.parser')
 
-                # Find all related question links
-                ul_elements = faq_soup.find('aside').find('ul')
-                li_elements = ul_elements.find_all('li')
+                    # Find all related question links
+                    ul_elements = faq_soup.find('aside').find('ul')
+                    li_elements = ul_elements.find_all('li')
 
-                for li in li_elements:
-                    try:
-                        related_title = li.text.strip()
-                        related_link = li.find('a')['href']
+                    for li in li_elements:
+                        try:
+                            related_title = li.text.strip()
+                            related_link = li.find('a')['href']
 
-                        # Navigate to the link
-                        driver.get(related_link)
-                        driver.sleep(10)
+                            # Navigate to the link
+                            driver.get(related_link)
+                            driver.sleep(10)
 
-                        # Get the new page source and parse with BeautifulSoup
-                        qn_page_source = driver.page_source
-                        qn_soup = BeautifulSoup(qn_page_source, 'html.parser')
+                            # Get the new page source and parse with BeautifulSoup
+                            qn_page_source = driver.page_source
+                            qn_soup = BeautifulSoup(qn_page_source, 'html.parser')
 
-                        # Find the content
-                        content_div = qn_soup.find('div', itemprop='acceptedAnswer') or qn_soup.find('div', class_='theiaStickySidebar')
+                            # Find the content
+                            content_div = qn_soup.find('div', itemprop='acceptedAnswer') or qn_soup.find('div', class_='theiaStickySidebar')
 
-                        if (content_div):
-                            paragraphs = content_div.find_all('p')
-                            content = "\n".join([paragraph.text for paragraph in paragraphs])
-                        else:
-                            content = "Content not found or this page does not exist."
+                            if (content_div):
+                                paragraphs = content_div.find_all('p')
+                                content = "\n".join([paragraph.text for paragraph in paragraphs])
+                            else:
+                                content = "Content not found or this page does not exist."
 
-                        # Append the scraped data
-                        scrapedData += f"Title: {related_title}\n"
-                        scrapedData += f"Content: {content}\n"
-                        scrapedData += "-" * 30 + "\n"
+                            # Append the scraped data
+                            scrapedData += f"Title: {related_title}\n"
+                            scrapedData += f"Content: {content}\n"
+                            scrapedData += "-" * 30 + "\n"
 
-                        # Go back to the initial page
-                        driver.back()
-                        driver.sleep(10)
+                            # Write the scraped data to the file
+                            file.write(f"Title: {related_title}\n")
+                            file.write(f"Content: {content}\n")
+                            file.write("-" * 30 + "\n")
 
-                    except AttributeError:
-                        print(f"Related question not found or page does not exist for link: {related_link}")
-                        driver.back()
-                        driver.sleep(10)
+                            # Go back to the initial page
+                            driver.back()
+                            driver.sleep(10)
+                            driver.quit()
 
-            except AttributeError:
-                print(f"FAQ tile not found or page does not exist for link: {link}")
-                driver.back()
-                driver.sleep(10)
+                        except AttributeError:
+                            print(f"Related question not found or page does not exist for link: {related_link}")
+                            driver.back()
+                            driver.sleep(10)
+
+                except AttributeError:
+                    print(f"FAQ tile not found or page does not exist for link: {link}")
+                    driver.back()
+                    driver.sleep(10)
     finally:
         driver.quit()
 
     return scrapedData
+
+scrape_moneybox_support()
