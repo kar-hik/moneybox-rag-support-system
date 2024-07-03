@@ -1,0 +1,1215 @@
+Title: What is Moneybox?
+Content: With Moneybox, you can start saving and investing for your future with as little as £1. By linking your bank account via the app you can round up your everyday purchases to the nearest pound and set aside the spare change into a savings account, or invest into thousands of global companies via tracker funds, ETFs and US stocks. 
+You can also deposit money into your account through one-off, weekly, or monthly contributions, and some products also offer instant payments. We offer products to suit every need – from saving for your first home, retirement or a rainy day, to looking for a mortgage or tracking down your old pension pots – we’ve got you covered!
+We started Moneybox because people are growing up without the tools and information they need to build their financial futures. Many don’t know where to start and it can feel confusing and unachievable when it comes to saving and investing. We’re determined to change this and to make saving and investing simple, enjoyable to use and available to everyone. 
+*Remember, investments can offer higher returns than savings accounts over the long term, typically for at least 5 years or more. All investments carry varying degrees of risk and you may get back less than you invest.
+------------------------------
+Title: Why do I need to set up a Direct Debit?
+Content: Any funds you add to the app are taken from your linked bank account, so you’ll need a UK current account linked in order to pay into your account(s) with us.
+If you hold an ISA, Junior ISA, GIA, Personal Pension, Simple Saver, or one of our Lifetime ISAs, you can deposit instantly via instant bank transfers, and do not need an active Direct Debit for this. So, if you’d prefer to solely deposit through instant bank transfers you’re more than welcome to cancel your Direct Debit with your bank
+If you do not hold one of the above accounts, or wish to deposit through our weekly collection cycle, you’ll need to set up a Direct Debit for us to collect the funds.
+Setting up a Direct Debit doesn’t mean you need to commit to recurring payments though, and you can still contribute via one-off deposits through our collection cycle if you’d prefer!
+The amount collected and debited each week is according to your app settings, which can be changed at any time!
+You can also cancel your Direct Debit with your bank at any point to prevent any further payments through our weekly collection cycle.
+------------------------------
+Title: What devices can I use the Moneybox app on?
+Content: The Moneybox app is supported for iOS devices on iOS 15 and above, as well as Android devices on Android 5.0 (Lollipop) and above.
+
+You can also download the app on a tablet (such as an iPad), however please note that we exclusively test for mobile devices, and so the app might have reduced functionality on a larger device.
+
+By keeping your app updated, you can also access our most up to date features! For iOS, on your device just head to App Store > Tap on your profile in the top right > Updates, and for Android head to Google Play > Tap on your profile in the top right > Manage apps & devices.
+
+It’s also worth noting that if you have customised the display settings on your mobile device, this may impact how our app performs.
+------------------------------
+Title:How does Moneybox work?
+Content: With Moneybox, you can set up a savings or investment account from your mobile phone in just a couple of minutes. The accounts and services we currently offer are:
+
+Stocks & Shares ISA
+Cash Lifetime ISA
+Cash ISA
+Stocks & Shares Lifetime ISA
+General Investment Account
+32 Day Notice Account
+95 Day Notice Account
+Simple Saver
+Personal Pension
+Junior ISA
+Moneybox Mortgages
+Choose your settings, link your bank account and you’re ready to go. You can get started with just £1 and contribute money via any combination of round-ups, one-off and weekly deposits, and a monthly payday boost.
+
+Your savings are added up throughout the week in your upcoming collection. This total is collected every Wednesday at around midday, and then debited from your bank account early the following week (normally on Monday). By the end of the day on Tuesday, you’ll see your payment added to your account balance. For our LISAs, Stocks & Shares ISA, Cash ISA, Junior ISA, Pension, Simple Saver, and GIA, you also have the option to deposit upwards of £100 instantly via an instant bank transfer.
+
+Our team is on hand to answer any questions you might have! Just drop them a message in the in-app chat, or email support@moneyboxapp.com and they’ll get back to you ASAP.
+------------------------------
+Title: Is Moneybox available to people outside of the UK?
+Content: Moneybox is only currently available in the UK, and in order to register for any of our accounts you’ll need to be a ‘UK resident for tax purposes’.
+------------------------------
+Title: What’s the minimum amount of money I need to get started?
+Content: For one-off deposits, you can get started with just £1! For recurring weekly subscriptions, the minimum is £2 per week.
+------------------------------
+Title: How can I sign up?
+Content: You can find a link to install the Moneybox app from the homepage of our website.
+
+After you install the app, all you need is:
+
+Your bank account details to set up a Direct Debit.
+Your National Insurance number to open a Stocks & Shares ISA, Cash ISA, Lifetime ISA, or Personal Pension (not required to open a General Investment Account, Simple Saver or our Notice Accounts).
+Your personal online banking or credit card details if you’d like to use round ups.
+With these details to hand, you can get up and running in a couple of minutes.
+
+For more information about signing up to our Junior ISA, please visit the Junior ISA FAQ section.
+------------------------------
+Title: Can I open a Moneybox account even if I don’t have a National Insurance number?
+Content: Yes – you can open a GIA (General Investment Account), Simple Saver, or one of our Notice Accounts without a National Insurance number. You will need a National Insurance number to open a Lifetime ISA, Cash ISA, Stocks & Shares ISA, or Moneybox Pension.
+------------------------------
+Title: Why have I been asked for ID while registering?
+Content: As a financial services organisation, we’re required to verify your identity and run anti-money laundering checks on all our customers. In the first instance this is done by matching your registration details with available databases, such as credit agencies (though it’s not a credit check) or voting registers.
+
+If the Moneybox app is asking you to upload a piece of ID, we’ve been unable to make the requisite number of matches, so the next step is to check one of your identification documents to confirm that your name and date of birth, or your name and address match.
+
+How do I submit my ID?
+
+All you need to do is take a photo of your passport, driving licence or national ID card from within the app and send it through. When taking this photo, please ensure that all four corners of the document are clearly visible, and there’s no glare.
+
+We can also accept residence permits as ID, just ensure to send us a photo of the front and back so we can check all the information needed.
+
+What happens once I’ve submitted my ID?
+
+In most cases we’re then able to verify your details quickly so you can proceed with registration straight away! If there are any issues with the ID provided, a member of the team will be in touch with the next steps within the next few working days to help you get set up.
+------------------------------
+Title: How old do I have to be to open an account?
+Content: You must be at least 18 years old to open an account with Moneybox. If you have parental responsibility for a child under 18, and are an existing Moneybox customer, you can open a Stocks and Shares Junior ISA on their behalf in the Accounts tab.
+
+Money you pay into a Junior ISA belongs to the child and can only be accessed by them once they turn 18. You can find out more about our Junior ISA here.
+------------------------------
+Title: Does Moneybox offer joint accounts?
+Content: No, at the moment we do not offer joint accounts at Moneybox.
+
+However, if you have a Moneybox Lifetime ISA, you can link this to another Moneybox customer’s LISA through our Housemates feature, which lets you view your combined savings towards your first home!
+
+If you’d like to send an invite to another Moneybox customer, you can do so in Accounts > Lifetime ISA > Add your buying partner 😊
+------------------------------
+Title: Why do you need my National Insurance number?
+Content: Your National Insurance number is required by HMRC should you choose to open a Stocks & Shares ISA, Cash ISA,  Lifetime ISA, or Personal Pension.
+------------------------------
+Title: Can I have two different profiles with Moneybox?
+Content: You should only register for one Moneybox account, however you can open more than one product with us within this account if you’d like! If you have created a duplicate account, please contact us at support@moneyboxapp.com.
+
+If you are a parent and would like to open a Junior ISA with Moneybox, you can use your existing Moneybox login details to set this up. For more information, please visit the Junior ISA FAQ section
+------------------------------
+Title: Can I sign up for an account on the Moneybox website?
+Content: Our service is currently only available via our mobile apps.
+------------------------------
+Title: How much could I save from round ups?
+Content:This will vary according to how many transactions you make, but Moneybox customers save on average £12.37 per week from round ups alone.
+------------------------------
+Title:How do round ups work?
+Content:Once you connect a bank account for round ups your recent transactions will show in the Moneybox app in the Home tab. You can then swipe on each transaction to add the spare change to your upcoming collection (or, if automatic round ups are enabled, your transactions will be rounded up and the difference added after 48 hours). You can change your round up settings any time in Settings > Round ups.
+
+Your upcoming collection, which is made up of all of your round ups for that week, plus any other deposits you have set up, is ‘collected’ from your Moneybox on Wednesday at around midday, and this amount is then debited from your bank account early the following week. As such, round ups aren’t ‘live’ deductions, but are pooled over the course of the week and debited from your bank account in one go.
+------------------------------
+Title: Which banks do you support for round ups?
+Content: Round ups are supported for a wide range of banks, but we’re always looking to add more! If your bank isn’t listed below, feel free to drop the team a message at support@moneyboxapp.com and we can make sure you’re added to the waiting list for your bank.
+
+If your bank isn’t yet supported, you can still contribute via one-off, weekly, or monthly deposits using a UK current account which supports direct debits.
+
+The banks we currently support for round ups are:
+
+American Express
+Bank of Scotland
+Barclaycard
+Barclays
+First Direct
+Halifax
+HSBC
+Lloyds
+M&S Bank
+MBNA
+Monzo
+Nationwide
+NatWest
+RBS
+Revolut
+Sainsbury’s Bank
+Santander
+Starling
+Tesco Bank
+TSB
+Ulster Bank
+Virgin Money
+Yorkshire Building Society
+------------------------------
+Title: How do I connect more round up accounts to Moneybox?
+Content: You can add more round up accounts in Settings > Round ups > Round up accounts. If you hold multiple accounts with the same bank, you can also toggle these “on” by heading to Settings > Round ups > Round up accounts, and then tapping on your chosen bank.
+
+Remember that all deposits will be collected in bulk from your nominated Direct Debit account.
+------------------------------
+Title: Do I have to use round ups?
+Content: You don’t need to use round ups to pay into your Moneybox account. If you’d prefer not to use round ups, you can still make payments by setting up a weekly deposit or making one-off deposits. You can also make monthly deposits using our Payday Boost feature, and, if you have a Stocks & Shares ISA, Cash ISA, LISA, Personal Pension, GIA, or Simple Saver, you can add a one-off deposit instantly via instant bank transfers.
+------------------------------
+Title: What can I invest in?
+Content: Moneybox has worked with experts to offer you three Starting Options – Cautious, Balanced and Adventurous. All you need to do is pick one based on your attitude to risk and return.
+
+Each Starting Option contains a mix of tracker (mutual) funds. If you’d like to, you can customise the asset allocations of our suggested Starting Options to create a personalised portfolio. However, you should bear in mind that our Starting Options have been carefully designed by investment experts to optimise risk and return for the selected risk appetite. Please make sure you fully understand how changing your allocation could impact your investment return and risk level before making any changes to these allocations.
+The mix of funds in each Starting Option is shown in the table below:
+ 
+In addition to these Starting Options, we offer five further tracker funds you can invest in. More information of each fund can be found in the app under Settings > Allocations:
+If you have a Stocks & Shares ISA, GIA or Stocks & Shares Lifetime ISA, you can also customise your investment allocation to invest in a broad range of ETFs. We offer investment into artificial intelligence, carbon transition, clean energy, and more! You can view our full fund range here.
+Finally, if you hold a Stocks & Shares ISA you can also invest in some of the world’s largest and best-known companies! You can view which US stocks we offer here
+The mix of funds in each legacy Starting Option before 19th December 2018.
+------------------------------
+Title: How did you design the Starting Options?
+Content: The mix of funds in each Starting Option is decided using Modern Portfolio Theory where, based on historical data, returns are optimised for set levels of risk. The actual funds are selected on the basis of cost, how well the fund tracks its index, and the reputation of the fund provider.
+Fund selection is reviewed annually, and, if necessary, adjusted at the end of each calendar year.
+For more information on the funds, the Key Investor Information Document (KIID) for each fund can be found in the app, or by selecting each fund on our fund range page.
+Please remember that Moneybox does not offer financial advice and that it is your responsibility to ensure that the funds and your asset allocation are suitable for your own personal circumstances.
+------------------------------
+Title: What’s the difference between stocks, tracker funds, and ETFs?
+Content: We offer stocks, tracker funds and exchange traded funds (ETFs) at Moneybox, so what’s the difference?
+Stocks let you invest directly in some of the biggest and best-known US companies. When you buy a stock, you effectively own a slice of the company.
+Investing in funds on the other hand doesn’t give you direct ownership of a company’s stock. Instead, rather than investing in one company, your money will be spread across a range of different companies that are included in a market index that the fund has been set up to track. 
+The good news is that you don’t have to choose one or the other. Instead, you can invest in stocks alongside your existing fund investments.
+------------------------------
+Title: Which tracker (mutual) funds can I invest in?
+Content: The tracker funds we offer investment into are:
+If you signed up before 19th December 2018, your options included:
+
+You will be able to see the Key Investor Information Documents (KIID) for each fund by going to Accounts > Select account > Tap the relevant fund and then selecting ‘Key Investor Information’. These are also available on our website.
+------------------------------
+Title: What is an ETF/ETC and how is it different from a tracker fund?
+Content: Like any other fund, an ETF (Exchange Traded Fund) is a basket of stocks or bonds that can be bought in a single purchase. Many popular ETFs track the performance of well-known indices such as the FTSE 100 or S&P 500. They can also track themes such as clean energy or robotics.
+This makes ETFs similar to tracker funds, in that they can both be great ways to get broad exposure to a market through a single investment. ETFs, however, are often seen as a modern version of a tracker fund. Here are the main differences:
+Wider choice. From tracking single indexes such as the FTSE 100 to global themes such as clean energy, ETFs offer a wider range of options for investors to choose from.
+ETFs are also more transparent so you can always view the underlying investments. Tracker funds, on the other hand, typically only release their holdings monthly.
+ETFs trade throughout the day – which means you can invest in and out of them more quickly. This compares to tracker funds which typically only trade once per day, so they take longer to buy and sell. Please note Moneybox does not currently offer live ETF trading.
+An ETC (Exchange Traded Commodity) follows the price of commodities such as oil or gold.
+------------------------------
+Title: Which ETFs can I invest in?
+Content: We offer a broad range of ETFs at Moneybox! ETFs are available for our Stocks & Shares ISA, General Investment Account, and Stocks & Shares Lifetime ISA. 
+We offer investment into artificial intelligence, carbon transition, clean energy, and more. You can view our full fund range here.
+Within the Moneybox app, you can also browse our full fund offering by heading to Accounts > Tap on your account > Add more funds.
+------------------------------
+Title: How is an ETF different from a tracker (mutual) fund?
+Content: ETFs are very similar to tracker funds in that they are both a great way to get broad exposure to a market through a single investment. ETFs, however, are often seen as a modern version of a tracker fund. Here are the main differences:
+------------------------------
+Title: What is a stock?
+Content: A stock is a slice of ownership in a company, and when you buy a stock, its value will rise or fall in line with the value of that company.
+You might hear ‘stocks’ used interchangeably with ‘shares’ but there’s a subtle difference. ‘Stocks’ refers to broad ownership – you can own stock in Apple and Tesla for example. ‘Shares’ on the other hand, refers to a specific unit of ownership in a company – you can own three Apple shares or five shares in Tesla.
+------------------------------
+Title: Which stocks can I invest in?
+Content: For S&S ISA customers, we currently offer investment into the following US stocks:
+------------------------------
+Title: How do I buy/sell stocks, and how long does it take?
+Content: You can buy stocks in Accounts > Stocks & Shares ISA > Explore more investments > Stocks. Once you’ve selected a stock, you can tap ‘invest weekly’ if you’d prefer to set up a weekly stock buy.
+Once you’ve invested in stocks, you can request a sell at any time in the Accounts tab by tapping the stock you’d like to sell. If you have a weekly stock buy set up, this can be changed in Settings > Weekly deposit.
+If you request a buy or sell through the app before 12pm, we’ll submit your trade request on the same working day when the US markets open. If you submit a request after 12pm, your trade will be processed the next working day as soon as the US market opens (usually 2:30pm UK time).
+Buys then typically complete within 1 working day, and you’ll receive an email to confirm the share price and number of shares you’ll receive. For sales, these will normally complete within 1-2 working days.
+When selling investments, the proceeds will be added to your Available Cash, ready for you to either reinvest as you please, or withdraw to your bank account!
+Please note that these timings above don’t account for delays caused by US/UK holidays.
+------------------------------
+Title: What is a W-8BEN?
+Content: A W-8BEN is a document required by the US tax revenue service (the IRS), which needs to be completed in order for you to invest in US stocks. To complete a W-8BEN, you’ll just need to confirm your name, address, nationality, and citizenship.
+You’ll only need to complete a W-8BEN the first time you buy stocks with Moneybox, and then once every three years after this point. Completing a W-8BEN also means tax paid on any dividends you earn is reduced from 30% to 15%.
+Please note that to pay into any Moneybox account, you’ll need to be a UK tax resident.
+------------------------------
+Title: Do stocks pay dividends?
+Content: Some of the stocks we offer do pay dividends. This is determined by the companies themselves rather than us at Moneybox, and so would be paid according to their timings. 
+Any dividends you earn from investing in stocks will be paid into your Available Cash, for you to then either re-invest as you wish or simply withdraw to your linked bank account under Settings > Withdraw. 
+Dividends are taxed by the IRS at a 15% rate, which takes place before they’re paid out to your Available Cash. Dividends do not, however, count towards your annual ISA allowance.
+------------------------------
+Title: When are investment gains added to my account balance?
+Content: Any dividends or investment gains from the tracker funds and ETFs that Moneybox offers investment into are automatically re-invested into the funds, producing more income. These are known in the investment industry as ‘accumulation’ funds (rather than ‘income’ funds, where any gains made by the fund will be paid out to you).
+This is dictated by the funds, so occurs at the fund manager (BlackRock, Legal & General, Fidelity, Vanguard, Royal London, HSBC, and Old Mutual) level and according to their timings. These gains are taken into account when your daily performance figure is calculated, so they won’t be visible in your ‘recent activity’ in the Accounts tab or on an account statement.
+When this reinvestment occurs, your total number of units will remain the same, however, their value will increase!
+If you hold a S&S ISA and invest in US stocks, some of these also pay out dividends. Any dividends you earn from investing in stocks will be paid into your Available Cash, for you to then either reinvest as you wish or withdraw to your linked bank account in Settings > Withdraw. Dividends do not count towards your annual ISA allowance.
+------------------------------
+Title: How do I track the performance of my stocks?
+Content: You can see the number of shares you hold and your investment gains in Accounts > Stocks & Shares ISA > Portfolio > Tap the relevant stock.
+------------------------------
+Title: How do I choose an ESG fund?
+Content: We’ve got a few ESG (Environmental, Social & Governance) funds to choose from, including Overseas Corporate Bonds ESG: iShares by BlackRock, Global Property Shares ESG: iShares by BlackRock, Royal London Emerging Markets ESG Leaders, Old Mutual MSCI World ESG Index, and eight ETFs.
+You can swap our standard global shares fund for Old Mutual by toggling on ‘Global Shares ESG’ when choosing your Starting Option, and you can always customise your allocation later on to increase or decrease your exposure to this fund.
+The Royal London Emerging Markets ESG Leaders fund and our range of ETFs aren’t in our Starting Options, but you can customise your allocations to bring these funds into your portfolio. This can be done when registering, or in-app by going to Settings > Allocations for existing customers.
+Please make sure you fully understand how changing the allocation could impact your investment return and risk level before making any changes to these allocations.
+------------------------------
+Title: What ESG funds can I invest in?
+Content: We offer four tracker (mutual) funds which are considered ESG (Environmental, Social, and Governance):
+ 
+Stocks & Shares ISA customers can also invest in a range of ETFs, which include eight ESG options:
+You can find out more about each fund on our fund range page.
+------------------------------
+Title: What if I need to avoid earning interest?
+Content: For most of our investment options, gains are generated by increases in share prices rather than interest. 
+If you’re looking to exclude earning interest, we’d strongly recommend researching the funds that we offer in detail to best figure out which ones do not meet your requirements. You can view our full fund range on our website here. You’re also able to view the funds’ Key Investor Information Documents (KIIDs) by clicking on the ‘find out more’ button. 
+We do offer an investment option which has been independently approved by an external Shariah committee – the HSBC Islamic Global Shares fund; however it’s worth noting that your money will still flow through interest-bearing accounts on the way to and from your linked bank account, due to our operational model.
+This includes an interest-bearing Available Cash if you hold money as cash within one of our investment products. As standard, this pays an interest rate of 3.80% AER (variable) for our S&S ISA, Junior ISA, and General Investment Account; and 3.50% AER (variable) for our S&S Lifetime ISA.
+You are, however, able to opt in to an interest free version in Settings > Accounts > Tap on your account > View other available rates.
+If you’d like to change which funds you’re invested in to better suit your requirements, you can do so in Settings > Allocations > Change allocation. From here you can change the % allocated to each fund, and tap ‘add more funds’ to add further funds to your allocation.
+By setting a particular fund to 0%, you won’t be investing any money into it. 
+Additionally, if you hold a Cash LISA, you are able to switch to a Stocks & Shares LISA should you wish, and you can then switch to an interest free version of Available Cash using the steps above. If you’re interested in switching or have any questions at all, please feel free to drop our team a message either via the in-app chat or by email to support@moneyboxapp.com – we’ll be glad to help!
+------------------------------
+Title: Will I pay more in fees if I invest in ESG funds?
+Content: As opposed to a normal index fund which simply tracks stocks based on their market capitalization, most ESG tracker funds and ETFs require a team of researchers to provide analysis and subsequent ESG (Environmental, Social, and Governance) ratings on each stock, which can therefore lead to some additional cost.
+For this reason, the fees for our Global Shares ESG fund and the ESG versions of the S&P 500 ETF and European Shares ETF are slightly higher than their non-ESG counterparts. However, this doesn’t apply to all of our ESG funds as some only track companies that are inherently ethical, such as our Global Clean Energy ETF, and so do not require further analysis.
+You can check the fees for all of our individual funds on our website here.
+------------------------------
+Title: What are the fees for investment accounts?
+Content: For investment accounts (Stocks & Shares ISA, General Investment Account, and Stocks & Shares Lifetime ISA), we charge the following fees:
+Fixed subscription fee:
+£1 per month, free for the first three months and charged per Moneybox account. This means even if you have multiple investment accounts with us, your subscription fee will remain at £1. This fee covers all transactions and all investing costs and is charged at the end of each month by selling down your largest holding.
+Platform fee:
+0.45% of the value of your investments per year. This fee accrues daily but is charged monthly by selling down your largest holding.
+Fund provider fees:
+You will also pay annual fund fees which cover fund management costs and transaction costs. They are charged by the fund provider rather than Moneybox, so are included when the fund provider calculates the value of your investments and are subject to change. You can find a full list of our available funds and their fees here.
+As an example, the annualised charges for an investment of £3,000 with a Balanced allocation would be:
+If you withdraw all your money or close your account we calculate the Fixed subscription fee and the Platform fee on a daily basis for that month and deduct these charges before you receive the money.
+When investing in US stocks, which are currently available for our Stocks & Shares ISA, in addition to our 0.45% annual platform fee, we collect a 0.45% currency conversion fee from the value of the trade before it is sent to be traded. This covers the cost of converting from GBP(£) to USD($) and vice versa. We do not charge any commission for investing in stocks.
+For funds held as Available Cash, we do not charge a customer service fee – instead, we will retain the difference (if any) between the interest received from the underlying third party banks and the amounts paid on your product.  The interest rate you see in the app is the interest rate you’ll receive.
+Information on fees, including our fee calculator, is always accessible in the Settings tab of the app by tapping on ‘Terms and fees’, and you can see how much you’ve paid in fees since opening your account in Accounts > Select Account > Breakdown.
+Account fees are charged at the end of each month by selling down a small portion of your largest holding, so no additional funds are taken by direct debit. 
+For more information about Junior ISA fees, please visit the Junior ISA FAQ section.
+------------------------------
+Title: Do you give financial or investment advice?
+Content: We aren’t able to offer financial advice, so you’ll need to make sure that your investment allocations are right for your personal circumstances and financial goals. Moneybox is also a self-directed platform, meaning we do not make any investment decisions on behalf of our customers.
+------------------------------
+Title: Are investment accounts discretionary managed?
+Content: Moneybox investment accounts are not discretionary managed, but rather are self-directed investment accounts. This means that you have complete control over your investments, and when you invest, how much you invest, and in what allocation percentage, albeit limited to the funds to which we currently provide access (so there’s no advisory relationship or broker arrangement involved).
+If your employer requires confirmation of this from us please get in touch with our Support team either via the in-app chat, or by emailing support@moneyboxapp.com and we can provide a letter that confirms the nature of your account.
+------------------------------
+Title: What is a KIID?
+Content: A KIID (Key Investor Information Document) is an information sheet provided by the fund manager that includes all the key facts and figures about a fund. It describes what the fund does, the investment risk, charges and performance to help you assess whether a particular investment fund meets your needs. It comes in a standardised format which is set out in European regulations. The aim is to help potential investors to compare different funds and make informed investment decisions.
+You can find KIIDs for each fund you’re investing in by heading to the Accounts tab of the app, selecting an account, tapping on the relevant fund and then ‘Key Investor Information’. You can also email a copy of the KIID to yourself via the button in the top right. These are also available on our website.
+------------------------------
+Title: How do Gifts from family and friends work?
+Content: Gifts are a way for family and friends to help give a head start on your savings by making gift deposits into your account. Currently, these are available for our Cash Lifetime ISA and Junior ISA. You can find your unique gift link in Settings > Share your gift link.
+Cash LISA
+Gift links can be shared with as many people as you’d like, however only up to four gifters can add money to your LISA per tax year, with a minimum of £100 (or your remaining LISA allowance for the tax year) and a maximum of £500 each. This means that up to £2,000 of the £4,000 you can pay into your LISA per tax year can come from your family and friends!
+Junior ISA
+You can receive Junior ISA Gifts from as many people as you’d like, and each can contribute between £100 and £9,000, or your remaining JISA allowance.
+For either account, gifters just need to follow your gift link to securely send their gifts via instant bank transfer – they don’t need to be Moneybox customers themselves. Once they’ve successfully completed a bank transfer, the money will arrive in your account within a few minutes, and you’ll both get an email confirming the payment.
+You can keep track of the gifts you’ve received in the app in Accounts > Tap on your account > Recent activity.
+Please note that a 25% government penalty applies if you withdraw money from a Lifetime ISA for any reason other than buying your first home (up to £450,000) or for retirement, and you may get back less than you paid into your Lifetime ISA. Payments made into a Junior ISA can only be withdrawn by the child once they turn 18.
+------------------------------
+Title: How can I change my payment settings?
+Content: Your payment settings can be updated in the app at any time.
+You can amend any one-off deposits and amounts due in your next collection by tapping ‘edit’ next to your upcoming collection total in the Home tab of the app. You can also cancel your Direct Debit with your bank if you’d like to pause deposits.
+------------------------------
+Title: How can I pay in?
+Content: There are a few ways you can pay into your Moneybox account! If you hold a Stocks & Shares ISA, Cash ISA, Junior ISA, GIA, Pension, Simple Saver, or one of our Lifetime ISAs, you can add payments of £100 or over in minutes using instant bank transfers. To add funds via an instant transfer, head to Accounts > Tap on your account > Add money in the app.
+Payments can be made into all our accounts via our weekly collection cycle, which operates via Direct Debit. Any funds you add to your upcoming collection total in the home screen of the app are collected on the next available Wednesday, at around midday, and the funds are then debited from your linked bank account early the following week – typically on Monday.
+You can add funds to your weekly collection by any of the following methods:
+ One-off deposit: you can add a one-off deposit which won’t recur using the ‘edit’ button in the home screen and entering an amount.
+Weekly deposit: this is a recurring weekly payment for a set amount, which can be set up/changed any time in Settings > Weekly deposit.
+Payday boost: a monthly subscription which is automatically added to your weekly savings total on your preferred day. You can set up a payday boost in Settings > Payday Boost.
+Round ups: connect a bank account for round ups to view your transactions in the Moneybox app and round up the spare change. Round ups can be set up in Settings > Round ups.
+Your Direct Debit must be set up with a UK current account –  we’re unable to collect funds from savings or business accounts. Please note that Moneybox accounts don’t have sort codes or account numbers for you to pay into directly.
+Finally, if you have an ISA or Lifetime ISA with another provider, you can transfer this to Moneybox by heading to Settings > Transfer in an existing ISA. More information on transfers in can be found here.
+------------------------------
+Title: Can I deposit instantly?
+Content: You can make instant deposits into some products using our instant bank transfers feature, which allows you to add money to your Stocks & Shares ISA, Cash ISA, Junior ISA, GIA, Pension, Simple Saver, or Lifetime ISA (both Cash and Stocks & Shares) in minutes You can pay in upwards of £100 from your linked bank account in the app in Accounts > Select your account > Add money.
+You also do not need an active Direct Debit mandate to deposit via an instant bank transfer. So, if you’d prefer to solely deposit through these, you’re more than welcome to cancel your Direct Debit with your bank.
+For investment accounts, you can choose whether your instant bank transfer is added to your Available Cash, or invested directly into your chosen investment allocation. For Pensions, your deposit will be invested according to your chosen allocations.
+You’ll then be taken to your online banking to confirm your transfer – please also note that some banks (e.g. Barclays, NatWest, RBS, and Ulster Bank) may have additional security steps to process larger payments, such as the use of a card reader, or payment limits for new payees.
+We’ll let you know via email when your bank transfer has arrived – this typically takes minutes, but can take up to 24 hours.
+Once you’ve made your transfer, you can see the payment listed in Accounts > Select account > Activity.
+------------------------------
+Title: How long does it take to add funds to my account?
+Content: At Moneybox we run on a weekly payment cycle, with funds debited from your bank account via Direct Debit. Here’s a breakdown of how our collection cycle works:
+Step 1
+Your savings are collected from your upcoming collection in the home screen of the app is collected every Wednesday at around midday. At this stage, you’ll be able to see this collection appear in the ‘Recent activity’ section when viewing your account in the Accounts tab.
+Step 2
+This money leaves your linked bank account via Direct Debit early the following week (usually on the Monday).
+On Tuesday, you’ll see your deposit added to your account value by the end of the day. We’re still waiting for full confirmation from your bank at this stage.
+Step 3
+For cash accounts, your funds will then be submitted with the partner bank(s) who power your account on Thursday, and this is when you’ll begin earning interest.
+For investment accounts, your funds will be submitted for investment on Thursday, and will then take a few working days to settle.
+Note that for our ISAs, Lifetime ISA, Junior ISA, Pension, Simple Saver, and General Investment Account you can also deposit £100 or more instantly with an instant bank transfer! You can find more information on how these work here. 
+------------------------------
+Title: Can I move money between Moneybox accounts?
+Content: You can request to move money between your Moneybox products in Settings > Move money between accounts.
+At the moment we offer the following moves in the app, and we’re working on rolling this feature out to more products in the future:
+Additional information on moving your funds
+------------------------------
+Title: How can I withdraw from my Moneybox account?
+Content: Withdrawals from most of our accounts can be requested directly from the app in Settings > Withdraw.
+If you’re withdrawing from a Stocks & Shares ISA or General Investment Account, you’ll first need to sell down your investments to cash, then, once complete, withdraw the proceeds of these sales back to your bank account
+If you’re investing in one of our Starting Options and haven’t customised your allocation or invested in ETFs or US stocks, you’ll have the option to sell a proportion of all of your investments in Settings > Withdraw.
+If you have customised your investments, you’ll just need to sell down each of your investments individually in Accounts > Select account > Tap on your individual investment(s) > Sell.
+Sells typically complete within 3-5 working days, and you’ll receive a confirmation email to let you know when each sale has completed.
+Once the sale(s) have completed and the proceeds are in your Available Cash, you can withdraw them to your bank account by going to Settings > Withdraw, and you’ll typically receive your withdrawal the next working day
+ 
+If you’re not withdrawing for a qualifying property purchase, withdrawals from a LISA can also be requested in Settings > Withdraw >LISA > Another reason.
+Please note that the 25% government penalty will apply to your withdrawal(s). When entering the amount you’d like to withdraw, you’ll see an estimate of how much you’d receive after the 25% penalty has been deducted by HMRC.
+Once requested, you’ll receive your withdrawn funds within approximately 1-3 working days for Cash LISAs, or within 1-2 weeks for Stocks & Shares LISAs.
+You can choose to request a full or partial withdrawal. If requesting a full withdrawal, further deposits into your LISA will be frozen, and any pending deposits or bonuses will be automatically withdrawn and sent to your linked bank account once available.
+ 
+Withdrawals from a Cash ISA can be requested in Settings > Withdraw > Cash ISA. Once you’ve requested a withdrawal, the funds will be sent to your linked bank account on the next available working day.
+It’s worth noting that if your account balance dips below £500, a lower interest rate of 0.75% AER (variable) will apply. You’ll earn the higher rate again once your balance increases to £500 or more.
+There’s also no limit to the number of withdrawals you can make, but if you withdraw four or more times within each 12-month period from the date of opening your Cash ISA, you’ll receive the lower rate for the rest of that period. The number of withdrawals you can make without impacting your rate will reset yearly on the date you opened your Cash ISA.
+ 
+Withdrawals from our easy access savings accounts (Simple Saver and/or Reward Savings Account) are paid out the next available working day, typically by 6pm.
+Please note that withdrawals from these accounts are limited to once per calendar month
+If you’re withdrawing from one of our Notice Accounts, requesting the withdrawal in the settings menu will begin the notice period.
+The amount requested will continue to earn interest during the notice period, and we’ll send your withdrawal back to your Direct Debit linked bank account on the next available working day after the notice period has passed, typically by 6pm.
+ 
+Money paid into a Junior ISA is considered a gift, which means it can only be withdrawn by the child after they turn 18 (except in cases of terminal illness or death).
+If you’re within 30 days of your first contribution into a Junior ISA, you can cancel the account within the cancellation period by getting in touch with our Support team via the in-app chat, or by emailing support@moneyboxapp.com.
+Money held in a Pension can only be accessed from the age of 55 and over. If you are over 55, please reach out to the team and we’ll guide you through the process! We currently offer three options, which our dedicated Pensions team will happily outline in more detail:
+------------------------------
+Title: How do I sell all of my investments and empty my account?
+Content: To make a full withdrawal from your investment account (Stocks & Shares ISA, GIA, or Stocks & Shares Lifetime ISA) you’ll need to sell down all of your investments, then withdraw the proceeds of these sales back to your bank account as cash.
+Step 1
+You can sell down your investments in Accounts > Tap on your account > Tap on your individual investment(s) > Sell. Sales typically complete within 5 working days, and you’ll get a confirmation email from us to let you know when each sale has completed. You can also track each sell you have in progress in Accounts > Tap on your account under Available Cash.
+Step 2
+Once your sells have completed and your funds held as Available Cash, you can make a full withdrawal to your linked bank account in Settings > Withdraw. Withdrawals from Available Cash are paid out within 1 working day.
+Please note that, when withdrawing from a Stocks & Shares Lifetime ISA, a 25% government withdrawal penalty will apply when you withdraw from Available Cash if you are not using the funds towards a qualifying property purchase or retirement.
+------------------------------
+Title: How can I move money from another account into my Moneybox Lifetime ISA?
+Content: You can move up to £4,000 each tax year (or your remaining LISA allowance for the tax year) from your Moneybox ISA, Simple Saver, or Reward Savings Account to your LISA in Settings > Move money between accounts.
+Once you’ve confirmed your move money request in the app, this will be complete within:
+We’ll send you an email to confirm when your move has completed, and you’ll receive the 25% government bonus on any funds transferred into your LISA.
+ 
+Moving money from an ISA to a LISA
+You can request to move funds from an ISA to your Lifetime ISA in Settings > Move money between accounts. 
+For Stocks & Shares ISA customers, you’ll need to sell down some investments to Available Cash first, which can be done in Accounts > ISA > Portfolio by selecting the fund and tapping ‘sell’. Once you’ve opted to sell, the funds should arrive in your Available Cash within 3-5 working days, ready for you to move to your LISA.
+For Cash ISA customers, you can request a move of any completed deposits straight away. Moving money from a Cash ISA to a Moneybox LISA does not count towards the 3 withdrawals you can make within each 12 month period without affecting your Cash ISA interest rate.
+------------------------------
+Title: Why have I received less than I was expecting when selling my investments?
+Content: When you request a sale of your investments, this is sent to be processed the next working day. Until your investments have been sold down (which is when the value of your funds is finally determined), the amount set aside for sale is still in the market, so you can receive back slightly more or less than you request due to movement in the markets.
+Once your sale is complete and the proceeds are added to your Available Cash, you’ll receive an email to confirm the final amount.
+-------------------------------
+Title: How does the Cash ISA interest rate work?
+Content: Interest for your Cash ISA is calculated on a daily basis, and is paid annually, on the anniversary of your account opening.
+How is interest displayed in the app?
+You can also keep track of how much interest you’ve earnt today in the app, by viewing your ‘today’s interest’ figure in the Accounts tab. You’ll see this increase when any pending deposit(s) have been fully deposited with the partner banks who power your Cash ISA.
+For deposits made through our weekly collection cycle, your ‘today’s interest’ typically updates on the Thursday after the funds leave your bank account. If you deposit via instant bank transfer, transfer in an ISA from another provider, or move money from another Moneybox account, this will typically occur the next working day after the funds arrive in  your Cash ISA balance.
+Moneybox Cash ISA interest rules
+A lower interest rate of 0.75% AER (variable) applies whenever your account balance is less than £500, and you’ll temporarily lose the bonus rate until your balance increases to £500 or more. Once your balance increases to above £500, you’ll see your rate update in the app within 24 hours.
+There’s no limit to the number of withdrawals you can make, but if you withdraw four or more times within each 12-month period from the date of opening your Cash ISA, you’ll receive the lower rate for the rest of that period and lose the bonus rate if this is within your first 12 months. The number of withdrawals you can make without impacting your rate will reset yearly on the date you opened your Cash ISA.
+If you request a full withdrawal, or a full transfer out to another provider, we’ll prepay any interest you’ve earnt to date. 
+------------------------------
+Title: What is the Cash ISA and how does it work?
+Content: A Cash ISA is a type of Individual Savings Account (ISA), into which you can deposit money and earn tax free interest on your savings.
+The Moneybox Cash ISA can be opened with a minimum first deposit of £500, or by transferring in an existing ISA, and currently offers an interest rate of up to 4.75% AER (variable).
+New Cash ISA customers will earn 4.75% AER (variable) on balances of £500 or more, which includes a bonus rate of 0.50% for the first 12 months. A lower interest rate of 0.75% AER (variable) applies whenever your account balance is less than £500, and you’ll temporarily lose the bonus rate until your balance increases to £500 or more.
+There’s no limit to the number of withdrawals you can make, but if you withdraw four or more times within each 12-month period from the date of opening your Cash ISA, you’ll receive the lower rate for the rest of that period and lose the bonus rate if this is within your first 12 months. The number of withdrawals you can make without impacting your rate will reset yearly on the date you opened your Cash ISA.
+You can pay up to £20,000 each tax year into an ISA, however this limit is shared between any other ISAs you hold. 
+------------------------------
+Title: Can I open more than one ISA of the same type with Moneybox?
+Content: You can pay into more than one ISA of the same type in a single tax year. Currently, it’s only possible to open one ISA of each type with Moneybox. 
+Your £20,000 annual ISA allowance resets each tax year, so you can continue depositing into the same ISA(s) that you currently hold, rather than opening a new one.
+------------------------------
+Title: Which banks are my Cash ISA funds held with? Are they FSCS protected?
+Content: We use a range of third party partner banks to power our Cash ISA, all of which are FSCS protected for up to £85,000. Note that the proportion of money held with each bank may change over time.
+You can view the full list of banks we use here, on our website.
+------------------------------
+Title: Can I move money between my Moneybox ISAs?
+Content: You can move money between a Cash ISA and Stocks & Shares ISA in Settings > Move money between accounts.
+Moves between ISAs do not count towards your annual £20,000 allowance.
+If moving funds from a Cash ISA to a Stocks & Shares ISA, please note that this will use one of the three Cash ISA withdrawals you can make in a 12 month period before impacting your interest rate, and if your Cash ISA balance drops below £500 you’ll earn a lower rate of 0.75% AER (variable). 
+If moving from a Stocks & Shares ISA to a Cash ISA, you can only move funds held in your Available Cash balance. If you don’t have any Available Cash, you can add cash by selling down your investments in a specific fund under Accounts > S&S ISA > Tap your individual fund(s) > Sell.
+------------------------------
+Title: Withdrawing from a Cash ISA
+Content: You can request a withdrawal from your Cash ISA at any time in Settings > Withdraw. If you make a full withdrawal, we’ll prepay any interest you have earned to date.
+Note that only completed deposits will be available for withdrawal. You can check the status of any in-flight deposits in Accounts > Cash ISA > Recent activity.
+It’s also worth noting that if your balance dips below £500, a lower interest rate of 0.75% AER (variable) will apply. You’ll earn the higher rate again once your balance increases to £500 or more.
+There’s also no limit to the number of withdrawals you can make, but if you withdraw four or more times within each 12-month period from the date of opening your Cash ISA, you’ll receive the lower rate for the rest of that period. The number of withdrawals you can make without impacting your rate will reset yearly on the date you opened your Cash ISA.
+------------------------------
+Title: Can I transfer an ISA from a previous tax year into my Cash ISA?
+Content: Yes! Transferring in an ISA held elsewhere into your Cash ISA does not impact your annual £20,000 allowance.
+You can request a transfer of an ISA from a previous tax year (or one you have paid into this tax year) in the app under Settings > Transfer in an existing ISA. 
+Most transfers will typically complete within three weeks, with Cash ISA transfers usually completing within 15 days. You can track the progress of your transfer in the app in Accounts > Cash ISA > Recent activity, and we’ll notify you by email once your transfer has completed.
+------------------------------
+Title: Can I deposit a lump sum into my Cash ISA?
+Content: You can make deposits into your Cash ISA through any combination of recurring payments, one-off deposits, or instant bank transfers, so it isn’t mandatory to make recurring deposits into this account.
+You can check and amend any payment settings you have active in the Settings tab. Deposits of £100 or more can be made through instant bank transfers, which are available in Home > Add money. 
+If you’d prefer to solely deposit through instant bank transfers, you can cancel your Direct Debit with your bank
+------------------------------
+Title: Withdrawing from a Stocks & Shares ISA
+Content: You can withdraw from a Stocks & Shares ISA free of charge, any time, providing the funds you’re withdrawing are fully settled (i.e. no pending deposits or investments).
+ 
+Step 1 – Selling your investments 
+To withdraw any invested funds, you’ll first need to sell down your investments, then, once these sales are complete, withdraw the proceeds from your Available Cash.
+If you’re investing in one of our Starting Options, you can sell down your investments in Settings > Withdraw. Here you’ll see a blue banner which prompts you to make cash available to withdraw – by tapping this you’ll have an option to sell down some or all of your investments. 
+If you’ve customised your investment allocation, or are investing in our range of ETFs or US stocks, you’ll need to choose which investments to sell. This can be done in Accounts > S&S ISA > Tap on your individual investment(s) > Sell.
+Sales are typically complete within 3-5 working days, and you’ll receive a confirmation email to let you know when each sale has completed. 
+Please note that when selling investments you may receive back a little more or less than you have chosen to withdraw. This is because prices change daily and it will take one working day to process the sale of your funds.
+ 
+Step 2 – Withdrawing to your bank account
+Once your sale(s) have completed, the proceeds will be sent to your Available Cash, and you can withdraw this to your linked bank account in Settings > Withdraw. Withdrawals from Available Cash are paid out the next available working day
+If you’d like to check which bank account you have linked for deposits and withdrawals, you can do so in Settings > Tap your name > Bank accounts > Linked account. You can also request to change your linked bank account on this screen
+------------------------------
+Title: What is the Stocks & Shares ISA and how does it work?
+Content: A Stocks & Shares ISA is a type of Individual Savings Account (ISA) which allows you to invest your savings in the stock market. By investing for the long term, you could earn more on your money than if you were to deposit into a savings account, however it’s worth noting that the value of your investments can go up and down, and you could get back less than you invest.
+With the Moneybox Stocks & Shares ISA, you can invest in our range of tracker funds, ETFs, and US stocks. You can also hold funds as Available Cash, earning 3.8% AER (variable).
+You can pay up to £20,000 each tax year into an ISA, however this limit is shared between any other ISAs you hold.
+------------------------------
+Title: Is my Stocks & Shares ISA covered by the Financial Services Compensation Scheme (FSCS)?
+Content: With our Stocks & Shares ISA, you can invest in a broad range of tracker (mutual) funds, exchange traded funds (ETFs) and/or US stocks. 
+For our tracker (mutual) funds, if either ourselves or Winterflood Securities (our asset custodian) is declared in default which results in a loss of your investments, then you are covered for up to £85,000 under the FSCS (note that ‘loss’ in this instance doesn’t include simply where the value of your investments fall as part of general investing risk).
+The majority of our fund providers are also covered by the FSCS for up to £85,000. Note, however, that the Old Mutual MSCI World ESG index and HSBC Islamic Global Equity Index Fund as well as our ETFs are domiciled outside of the UK and so are not covered by FSCS or an equivalent foreign scheme.
+US Stocks are held in custody with a third-party broker-dealer (DriveWealth) registered with the SEC (the Security and Exchange Commission which regulates the US securities markets). Funds or cash held by DriveWealth is held in segregated accounts in the name of Moneybox, so a high level of protection is in place in the unlikely event of insolvency. US Stocks or cash held in custody outside of the UK are not covered by FSCS.
+If you choose to hold funds as Available Cash within your S&S ISA, this is covered by FSCS. We use a range of third party partner banks to hold these funds, all of which can be found listed here.
+------------------------------
+Title: How can I withdraw from my ISA or General Investment Account (GIA)?
+Content: Withdrawing from a Cash ISA
+Withdrawals from a Cash ISA can be requested in Settings > Withdraw > Cash ISA. Once you’ve requested a withdrawal, the funds will be sent to your linked bank account on the next available working day.
+It’s worth noting that if your account balance dips below £500, a lower interest rate of 0.75% AER (variable) will apply. You’ll earn the higher rate again once your balance increases to £500 or more.
+There’s also no limit to the number of withdrawals you can make, but if you withdraw four or more times within each 12-month period from the date of opening your Cash ISA, you’ll receive the lower rate for the rest of that period. The number of withdrawals you can make without impacting your rate will reset yearly on the date you opened your Cash ISA.
+ 
+Withdrawing from a Stocks & Shares ISA or GIA
+You can withdraw from a Stocks & Shares ISA or GIA free of charge, any time, providing the funds you’re withdrawing are fully settled (i.e. pending deposits or investments can’t be withdrawn). It’s worth noting that our investment products are designed to help you save and invest for the longer term (minimum of 5 years). 
+To withdraw, you’ll first need to sell down your investments, then, once these sales are complete, withdraw the proceeds from your Available Cash.
+If you’re investing in one of our Starting Options, you can sell down your investments in Settings > Withdraw.
+If you’ve customised your investment allocation, or are investing in our range of ETFs or US stocks, you’ll need to choose which investments to sell. This can be done in Accounts > S&S ISA/GIA > Tap on your individual investment(s) > Sell.
+Sales are typically complete within 2-5 working days, and you’ll receive a confirmation email to let you know when each sale has completed. 
+Please note that when selling investments you may receive back a little more or less than you have chosen to withdraw. This is because prices change daily and it will take one working day to process the sale of your funds.
+Once your sale(s) have completed, the proceeds will be sent to your Available Cash, and you can withdraw this to your linked bank account in Settings > Withdraw. Withdrawals from Available Cash are paid out the next available working day 
+------------------------------
+Title: What is an Individual Savings Account (ISA)?
+Content: ISA stands for Individual Savings Account, and is a government scheme allowing individuals to hold cash, shares and unit trusts free of tax on dividends, interest and capital gains. You can deposit up to £20,000 into an ISA each tax year, and this limit is shared across all of the ISAs that you have open.
+At Moneybox, we offer a Cash ISA, a Stocks & Shares ISA, and Lifetime ISAs (both Cash and Stocks & Shares).
+------------------------------
+Title: What is a General Investment Account (GIA)?
+Content: A General Investment Account allows you to invest outside of tax wrappers such as Personal Pensions and Stocks & Shares ISAs. Unlike an ISA, the GIA doesn’t offer tax relief but you only pay tax on gains above £3,000, subject to having no other taxable investments.
+There’s no annual limit on how much you can contribute, however, we limit contributions to £85,000 per week. You can find more info on our GIA here.
+ 
+------------------------------
+Title: What is the difference between a Stocks & Shares ISA and a Cash ISA?
+Content: Our Stocks & Shares ISA allows you to invest your money in a range of tracker (mutual) funds, ETFs, and some of your favourite US companies. Investing your money can provide higher returns than a Cash ISA over the long term (minimum of five years), however, as with all investing, your capital is at risk and you may get back less than you invest. 
+Our usual investment account fees also apply to our Stocks & Shares ISA, which you can find in detail here. You can also read more about our Stocks & Shares ISA here.
+The Cash ISA is a cash savings account and does not offer any investment options. To open a Moneybox Cash ISA, you’ll need to make a first deposit of at least £500, or transfer in an existing ISA from elsewhere. 
+By keeping an account balance of £500 or more and not making four or more withdrawals in each 12-month period after opening your Cash ISA, you’ll earn a higher rate of, which for new Cash ISA customers includes a bonus rate for the first 12 months.
+The number of withdrawals you can make without impacting your rate resets each year on the date you opened your Cash ISA. You can find more information about the account here.
+------------------------------
+Title: What are the rules around ISA allowances?
+Content: HMRC rules state that you’re able to open and deposit into more than one ISA in the same tax year. This includes paying into more than one ISA of the same type (e.g. paying into two Cash ISAs in the same tax year), but excludes paying into more than one Lifetime ISA, as this is limited to one per tax year). Please note that your annual £20,000 contribution allowance is shared across all of the ISAs that you have open.
+For example, you could deposit £4,000 into a Lifetime ISA and £16,000 into a Stocks & Shares ISA within the same tax year if you wish!
+------------------------------
+Title: What is Available Cash?
+Content: Your Available Cash shows how much money is held in your investment account as cash – it isn’t invested and instead earns interest. 
+For our Stocks & Shares ISA, Junior ISA, and General Investment Account, cash earns an interest rate of 3.80% AER (variable). For our Stocks & Shares Lifetime ISA, this rate is 3.50% AER (variable).
+You can use your Available Cash to invest in our range of funds (and/or stocks, if you hold a Stocks & Shares ISA), either individually or in line with your current allocation. You can also move money to another Moneybox product, or withdraw to your linked bank account.
+Funds held as Available Cash do not incur any fees.
+------------------------------
+
+Title: How can I move money from another account into my Moneybox Lifetime ISA?
+Content: You can move up to £4,000 each tax year (or your remaining LISA allowance for the tax year) from your Moneybox ISA, Simple Saver, or Reward Savings Account to your LISA in Settings > Move money between accounts.
+
+Once you’ve confirmed your move money request in the app, this will be complete within:
+
+1-2 working days if you’re moving into a Cash LISA or Available Cash within your Stocks & Shares LISA, or;
+3-6 working days if you’ve opted to invest your money in your Stocks & Shares LISA.
+We’ll send you an email to confirm when your move has completed, and you’ll receive the 25% government bonus on any funds transferred into your LISA.
+
+
+
+Moving money from an ISA to a LISA
+
+You can request to move funds from an ISA to your Lifetime ISA in Settings > Move money between accounts.
+
+For Stocks & Shares ISA customers, you’ll need to sell down some investments to Available Cash first, which can be done in Accounts > ISA > Portfolio by selecting the fund and tapping ‘sell’. Once you’ve opted to sell, the funds should arrive in your Available Cash within 3-5 working days, ready for you to move to your LISA.
+
+For Cash ISA customers, you can request a move of any completed deposits straight away. Moving money from a Cash ISA to a Moneybox LISA does not count towards the 3 withdrawals you can make within each 12 month period without affecting your Cash ISA interest rate.
+------------------------------
+Title:
+Content:
+------------------------------
+------------------------------
+Title: What can’t Lifetime ISA funds be used for?
+Content: Your Lifetime ISA balance can only be used towards your exchange deposit, or the completion of your qualifying property purchase. However, it’s worth noting that if you use any LISA funds towards your exchange deposit, the completion of your purchase must then follow within 90 days, or your solicitor/conveyancer will need to request an extension of up to 90 days to avoid returning the funds to your LISA.
+
+The Lifetime ISA can’t be used towards buy-to-let properties, as you must intend to live in the property as your primary residence. You also cannot use the funds to purchase a house boat or mobile home, as your purchase must have a ‘legal interest in land’ according to HMRC.
+
+Your LISA balance cannot be used for solicitor’s fees or the costs of furnishing your property.
+
+If you are looking to use funds in your LISA for a purpose other than exchange or completion of a qualifying property purchase, you’ll need to make a penalty withdrawal in the app in Settings > Withdraw, where the 25% penalty will apply to the amount you withdraw.
+
+If you’re unsure whether your purchase will qualify, we’d recommend contacting your solicitor who will be best placed to confirm. Our team is also happy to help – just drop us a message via the in-app chat, or by emailing support@moneyboxapp.com.
+------------------------------
+Title: How can I move money from another account into my Moneybox Lifetime ISA?
+Content: You can move up to £4,000 each tax year (or your remaining LISA allowance for the tax year) from your Moneybox ISA, Simple Saver, or Reward Savings Account to your LISA in Settings > Move money between accounts.
+
+Once you’ve confirmed your move money request in the app, this will be complete within:
+
+1-2 working days if you’re moving into a Cash LISA or Available Cash within your Stocks & Shares LISA, or;
+3-6 working days if you’ve opted to invest your money in your Stocks & Shares LISA.
+We’ll send you an email to confirm when your move has completed, and you’ll receive the 25% government bonus on any funds transferred into your LISA.
+
+
+
+Moving money from an ISA to a LISA
+
+You can request to move funds from an ISA to your Lifetime ISA in Settings > Move money between accounts.
+
+For Stocks & Shares ISA customers, you’ll need to sell down some investments to Available Cash first, which can be done in Accounts > ISA > Portfolio by selecting the fund and tapping ‘sell’. Once you’ve opted to sell, the funds should arrive in your Available Cash within 3-5 working days, ready for you to move to your LISA.
+
+For Cash ISA customers, you can request a move of any completed deposits straight away. Moving money from a Cash ISA to a Moneybox LISA does not count towards the 3 withdrawals you can make within each 12 month period without affecting your Cash ISA interest rate.
+------------------------------
+Title: Can I still use my Lifetime ISA after purchasing my first home?
+Content: Yes! Funds held in a Lifetime ISA can be used for the purchase of your first home and/or retirement after age 60.
+
+When you withdraw your LISA for a qualifying first home purchase, we’ll freeze contributions to the account to prevent any delays with your withdrawal. However, once your withdrawal is complete, you’re more than welcome to carry on paying into your LISA to use for retirement after age 60. If you’d like to resume contributions, please don’t hesitate to reach out to the team!
+
+You can deposit up to £4,000 per tax year into the account until you turn 50, and anything you deposit will continue to earn the 25% government bonus. Once you reach retirement age (60 and over), you can withdraw your LISA funds without the government withdrawal charge.
+------------------------------
+Title: How does the Cash Lifetime ISA bonus interest rate work?
+Content: If you signed up for a Moneybox Cash Lifetime ISA on or after 17th August 2020, your account has an underlying AER variable interest rate, as well as an introductory bonus interest rate, which is paid out after your account has been open for 12 months.
+
+For new customers, this interest rate is 5.00% AER variable, with an introductory bonus interest rate of 1.00% which is paid out after 12 months.
+
+The 4.00% AER variable interest rate is calculated daily and added to your LISA balance on the first working day of the month.
+
+The 1.00% introductory bonus interest rate is calculated daily, and, rather than being paid out monthly, will be paid into your LISA once your account has been open with Moneybox for 12 months. Once your Cash LISA has been open for 12 months and you have received your bonus interest payment, only the variable interest rate, currently 3.50% AER variable, and the 25% government bonus will apply to the account going forward.
+
+If you cancel your Moneybox Cash Lifetime ISA or transfer out to another provider during the first 12 months, you will no longer be eligible and won’t receive the introductory bonus interest. If you make an unauthorised withdrawal and have a balance of £0 at the end of the offer period, you won’t be eligible to receive the bonus interest. An unauthorised withdrawal is any withdrawal from your LISA which is not for a qualifying first home purchase or retirement after age 60, excluding if you are terminally ill with less than 12 months to live.
+------------------------------
+Title: Who is the partner bank for my Cash Lifetime ISA?
+Content: Who is the partner bank for my Cash Lifetime ISA?
+The Moneybox Cash LISA holds your savings via third party banks, which are all covered by FSCS protection.
+
+For further information on the banks which hold funds in this account, please contact us via the in-app chat, or by emailing support@moneyboxapp.com
+------------------------------
+Title: What are the fees for the Moneybox Cash Lifetime ISA?
+Content: We do not charge a customer service fee for our Moneybox Cash Lifetime ISA. Instead, we will retain the difference (if any) between the interest received from the underlying third party banks and the amounts paid on your product. The interest rate you see in the app is the interest rate you’ll receive.
+------------------------------
+Title: Can I withdraw my money at any time?
+Content:If yu’re still within 30 days of your first payment into your LISA, you can cancel your account by reaching out to the team either via the in-app chat or by email to support@moneyboxapp.com.
+
+If you’re outside your 30 day cancellation period, there is a 25% government charge if you withdraw money for any reason other than buying your first home (up to £450,000) or for retirement (except in cases of terminal illness). If you withdraw for a property purchase before your account has been open for 12 months, you will also be subject to the government penalty. Your LISA counts as ‘open’ once you’ve made your first contribution.
+
+This 25% penalty means that if you deposit £1,000, you get the 25% govt. bonus = £1,250. If you make a withdrawal and 25% was taken off, you’d receive £937.50, which is a 6.25% loss. Please note this does not take into account investment gains/losses and fees.
+
+Penalty withdrawals and qualifying house purchase withdrawals can both be requested within the app in Settings > Withdraw. When requesting a penalty withdrawal in the app, you’ll see an estimate on how much you’ll receive after HMRC have deducted the 25% penalty.
+------------------------------
+Title: Is my Lifetime ISA protected by the Financial Services Compensation Scheme?
+Content: The FSCS is a government fund that exists to help consumers in the event of a bank collapse. You are protected for 100% of the first £85,000 per financial institution.
+
+Our Cash LISA and Stocks & Shares LISA are both protected by the FSCS, and you can find out more about this protection on our FSCS page. For investment products such as our Stocks & Shares LISA, please note that you are covered in the event of the product provider collapsing, not if your investments lose money.
+------------------------------
+Title: When does the interest on my Cash Lifetime ISA get paid?
+Content: The interest on your Cash Lifetime ISA accrues daily and is paid on the 1st of every month. Please note that all of our interest rates are annual equivalent rates (AER), and this illustrates what the interest rate would be if it was paid once a year. All of our rates are variable and therefore may change.
+
+You can view how much interest you’ve earnt so far in Accounts > Lifetime ISA > Breakdown.
+------------------------------
+Title: Can I change my LISA type?
+Content: If you hold a Moneybox Cash Lifetime ISA, and would like to change this to a Moneybox Stocks & Shares Lifetime ISA, please reach out to the team via the in-app chat or by email to support@moneyboxapp.com and we’ll be able to help!
+
+If you hold a Stocks & Shares LISA with us, at the moment it isn’t possible to change this to a Cash LISA. This is something we’re hoping to offer in the future, so keep an eye out for further updates.
+
+For Stocks & Shares LISA customers, you can sell down some or all of your investments and hold the proceeds as Available Cash within your LISA. You can request this by heading to Settings > Withdraw, or by selling individual funds in Accounts > LISA > Portfolio. Money held in your Available Cash earns an interest rate of 3.50% AER.
+
+The 25% penalty does not apply when selling investments to hold as Available Cash, as the funds have not left the LISA wrapper.
+------------------------------
+Title: Can I open a Lifetime ISA if I already have an ISA?
+Content: Yes, you can pay into a Lifetime ISA and an ISA in the same tax year if you wish!
+
+Just note that the annual contribution limit for the Lifetime ISA is £4,000 per tax year, and this counts towards the overall annual ISA contribution limit of £20,000.
+------------------------------
+Title: Can I have more than one Lifetime ISA?
+Content: You can have more than one Lifetime ISA, but you can only pay into one each tax year.
+
+If you have already paid into an existing Lifetime ISA in the current tax year, you can transfer this to Moneybox once you’ve opened a LISA with us by heading to Settings > Transfer in an existing ISA. Once you’ve submitted your details, we’ll contact your current provider and most transfers will typically complete within 3 weeks.
+------------------------------
+Title: How is the Lifetime ISA different from the Help to Buy ISA?
+Content: How is the Lifetime ISA different from the Help to Buy ISA?
+Lifetime ISAs and Help to Buy ISAs (HTB) are government initiatives to help you save for the future. Both are suited to first time home buyers and offer big cash bonuses from the government.
+
+While the Help to Buy ISA is no longer available to open as a new product, if you hold an existing Help To Buy ISA you can continue to pay in and use this account until December 2030. So, for these customers, it’s a good time to understand how these two accounts differ and which one could be best for your first home savings.
+
+We’ve set out some of the key differences in the infographic below:
+------------------------------
+Title: What is Housemates and how does it work?
+Content: Housemates allows you to invite another Moneybox customer to link their Lifetime ISA with yours, so you can view your combined savings towards your first home! It only takes a couple minutes to set up, and you’ll just need the email address of the person you’d like to invite.
+
+You can send an invite in Accounts > Lifetime ISA > Add your buying partner. If your buying partner already holds a Moneybox account, you should use the email address they used to register. Once they’ve accepted the invitation, you’ll see their LISA balance appear in the Accounts tab, and they’ll see yours too!
+
+Please note that Housemates just allows buying partners to view each other’s LISA balances and we do not currently offer joint accounts.
+------------------------------
+Title: Can I use the Lifetime ISA to buy a home with someone else?
+Content: Yes! You can use your Lifetime ISA to buy a home with another person regardless of whether or not they’re also a first time buyer.
+
+You can also use the LISA to buy with another LISA holder, or someone who holds a Help to Buy ISA. Please note, however, that the £450,000 price limit on the home you buy does not increase if two or more LISAs are used for the same property purchase.
+
+------------------------------
+Title: What is Housemates and how does it work?
+Content: Housemates allows you to invite another Moneybox customer to link their Lifetime ISA with yours, so you can view your combined savings towards your first home! It only takes a couple minutes to set up, and you’ll just need the email address of the person you’d like to invite.
+
+You can send an invite in Accounts > Lifetime ISA > Add your buying partner. If your buying partner already holds a Moneybox account, you should use the email address they used to register. Once they’ve accepted the invitation, you’ll see their LISA balance appear in the Accounts tab, and they’ll see yours too!
+
+Please note that Housemates just allows buying partners to view each other’s LISA balances and we do not currently offer joint accounts.
+------------------------------
+Title: How do Home-buying Gifts from family and friends work?
+Content: Home-buying Gifts are a way for family and friends to help you on your home-buying journey by making gift deposits into your Cash Lifetime ISA.
+
+You can find your gift link in Accounts > LISA or in Settings. Links can be shared with as many people as you’d like, however only four gifters can add money to your LISA per tax year, with a minimum of £100 and a maximum of £500 each.
+
+Gifters just need to follow your gift link to securely send their gifts via instant bank transfer – they don’t need to be Moneybox customers themselves. Once they’ve successfully completed a bank transfer, the money will arrive in your Cash LISA within a few minutes, and you’ll both get an email confirming the payment.
+
+You can keep track of the gifts you’ve received in the app in Accounts > LISA > Recent activity.
+
+Just note that any gift deposits made into your LISA will count towards your allowance of £4,000 per tax year.
+
+A 25% government penalty applies if you withdraw money from a Lifetime ISA for any reason other than buying your first home (up to £450,000) or for retirement, and you may get back less than you paid into your Lifetime ISA
+------------------------------
+Title: Who can send me a Cash LISA gift?
+Content: Anyone with a UK bank account can send gifts of £100 or more. For our Cash Lifetime ISA, you can receive gifts from up to 4 people per tax year, with a maximum of £500 each.
+
+For gifters with their own Lifetime ISA, sending a gift to someone else’s LISA does not count towards the gifter’s own annual ISA allowance.
+------------------------------
+Title: What is a Lifetime ISA?
+Content: The Lifetime ISA (LISA) is a product designed by the government to help you to purchase your first home or save towards retirement.
+
+With a Lifetime ISA, you can pay in up to £4,000 per year and you get a 25% government bonus on all savings. That means for every £4 you save, you get £1 for free, and, if you pay in the maximum £4,000, you’ll receive a £1,000 bonus. Over time, these bonuses could give you a real head start.
+
+A 25% government penalty applies if you withdraw money from a Lifetime ISA for any reason other than buying your first home (up to £450,000) or for retirement (except in cases of terminal illness). Your account also needs to be open for 12 months before you can withdraw penalty-free for a property purchase. LISAs are considered ‘open’ once you’ve made your first contribution.
+
+With Moneybox you can choose between a market-leading Cash Lifetime ISA, which offers an interest rate of 5.00% AER (variable) for new customers, made up of a 4.00% AER variable interest rate and a 1.00% introductory bonus rate for your first year, or our Stocks & Shares Lifetime ISA, which allows you to invest your savings in the stock market. Remember, as with all investing, the value of your investments can go up and down, and you may get back less than you invest.
+
+We’ve set out the main Lifetime ISA details you need to know in our infographic below.
+------------------------------
+Title: Who can open a Lifetime ISA?
+Content: Any UK tax resident aged 18-39 can open a Lifetime ISA. Once you have opened a Lifetime ISA, you can pay into it every year until you reach 50.
+
+If you’re looking to use the Lifetime ISA for a first home purchase, you must be a first time buyer.
+------------------------------
+Title: When are LISA bonuses paid out?
+Content: Lifetime ISA bonuses are paid out at the end of each month, and are based on your total contributions in the previous month. HMRC doesn’t pay out bonuses on a set date each month, but this is typically in the final week of the month, usually between the 24th and the end of the month.
+
+LISA bonus ‘windows’ run from the 6th of the month to the 5th of the following month. For example, for any contributions you made between the 6th of January and the 5th of February, you’d receive the 25% bonus at the end of February.
+
+If you have a pending bonus, you can see when this is due to be paid in Discover > Tools > Lifetime ISA Bonus. (Please note you’ll need to be on the latest app version to see this!)
+
+
+
+What if I’m due to complete on a first home purchase soon?
+
+If you’re due to complete on a property purchase after your bonus is due to be paid, we should still be able to withdraw this bonus and send the funds to your solicitor. When we liaise with your solicitor to complete your withdrawal, they are able to indicate whether they’d like us to include any future bonuses due to be paid into your LISA, or a specific amount. If they opt for us to include further bonuses, we’ll typically pay these out separately once they have been paid into your LISA.
+
+Please note that once your bonus is paid out by HMRC and is available to withdraw, it can take up to 3 working days for our Cash LISA, or up to 10 working days for our S&S LISA for the withdrawal to complete.
+
+If your completion date is before the bonus is due to be paid, you can either leave the bonus funds in your account, as your LISA can also be used to save towards retirement, or you can withdraw the bonus to your linked bank account. Please note, if you did choose to withdraw, the 25% government penalty would apply, as you would have already withdrawn for your property.
+------------------------------
+Title: How can I use the savings I have in my Lifetime ISA?
+Content: You can use the money saved in your Lifetime ISA for two purposes:
+
+Buying your first home
+For retirement
+For more information about buying your first home, please see How can I use my Lifetime ISA to buy my first home?
+
+For more information about saving for retirement, please see How can I use my Lifetime ISA for retirement?
+------------------------------
+Title: What is the difference between a Cash and Stocks & Shares Lifetime ISA?
+Content: We offer two types of Lifetime ISA:
+
+A Cash Lifetime ISA – This works like a cash savings account in that you earn interest on funds held in the account. The interest rate for the Moneybox Cash LISA is 5.00% AER, made up of a 4.00% AER (variable) interest rate and a 1.00% introductory bonus interest rate for your first year.
+A Stocks & Shares Lifetime ISA – With a Stocks and Shares LISA, rather than earning interest like you do with a Cash LISA, you invest your money in funds. Investing over the long term (5 or more years) can offer higher returns, although it’s important to remember that the value of your investments can go up and down, and you may get back less than you invest.
+------------------------------
+Title: When can I use my Lifetime ISA for a first home?
+Content: Once your Lifetime ISA has been open for at least 12 months, you can withdraw your funds penalty-free for a qualifying property purchase. Your LISA is considered open once you make your first contribution into the account.
+
+Any withdrawals made before the account has been open for 12 months would be subject to the 25% government withdrawal penalty (except in cases of terminal illness).
+------------------------------
+Title: How can I use my Lifetime ISA to buy my first home?
+Content: Our blog post outlines the full process of withdrawing from a Lifetime ISA.
+
+You can use the amount saved in your Lifetime ISA towards your first home if:
+
+The property costs £450,000 or less.
+You buy the property at least 12 months after you open a Lifetime ISA. Your LISA is considered open from the date of your first contribution into the account.
+You use a conveyancer or solicitor to act for you in the purchase. Moneybox will pay the funds directly to the conveyancer or solicitor.
+You’re buying with a mortgage (using a buy to let mortgage is not permitted). Please note that the mortgage itself also cannot be provided by a family member, however you can still use your LISA to purchase your home with somebody else, as long as the property satisfies all of this same criteria.
+You have never owned a property before. This includes properties in the UK or in any other country. If you owned a property, or a share of one, through inheritance this counts as owning a property.
+Once you’re ready to buy, just head to Settings > Withdraw > LISA at least a few weeks before you expect to complete to provide us with your solicitor’s details and get the process started! Looking for a mortgage? Our Moneybox Mortgages team may be able to help!
+------------------------------
+Title: How can I use my Lifetime ISA for retirement?
+Content: You can withdraw the value of your Lifetime ISA when you reach 60 (or any time after). However, you can only pay into your Lifetime ISA until you are 50. Thereafter, your savings will continue to accrue interest (Cash LISA), or receive investment gains or losses (Stock & Shares Lifetime ISA) in the 10 years in between.
+
+Whether you should consider a Lifetime ISA for retirement as either an alternative, or complementary savings option, is a complicated question and depends on several factors. If you’re considering a Lifetime ISA for retirement, we recommend you speak to an independent financial adviser first.
+------------------------------
+Title: What can’t Lifetime ISA funds be used for?
+Content:Your Lifetime ISA balance can only be used towards your exchange deposit, or the completion of your qualifying property purchase. However, it’s worth noting that if you use any LISA funds towards your exchange deposit, the completion of your purchase must then follow within 90 days, or your solicitor/conveyancer will need to request an extension of up to 90 days to avoid returning the funds to your LISA.
+
+The Lifetime ISA can’t be used towards buy-to-let properties, as you must intend to live in the property as your primary residence. You also cannot use the funds to purchase a house boat or mobile home, as your purchase must have a ‘legal interest in land’ according to HMRC.
+
+Your LISA balance cannot be used for solicitor’s fees or the costs of furnishing your property.
+
+If you are looking to use funds in your LISA for a purpose other than exchange or completion of a qualifying property purchase, you’ll need to make a penalty withdrawal in the app in Settings > Withdraw, where the 25% penalty will apply to the amount you withdraw.
+
+If you’re unsure whether your purchase will qualify, we’d recommend contacting your solicitor who will be best placed to confirm. Our team is also happy to help – just drop us a message via the in-app chat, or by emailing support@moneyboxapp.com.
+------------------------------
+Title: How does Moneybox calculate cash interest?
+Content: For our Cash Lifetime ISA and savings accounts (Notice Accounts, Simple Saver, and Reward Savings Account), your underlying interest is calculated daily and is paid into your account on the 1st of every month. For our Cash ISA, interest is paid annually on the anniversary of your account opening. 
+Bonus interest for our Cash LISA and Cash ISA is also calculated daily and is paid annually. For more information on how our bonus rate works for our Cash LISA, check out our FAQ here.
+Interest is calculated based on your “asset value” – which is the sum of all of your deposits plus any interest and government bonuses (for Cash Lifetime ISA) that has already been paid. The calculation we use for this figure will also take into account the compounding effect of any monthly paid interest.
+In the Moneybox app, you can see how much interest you have earnt each day by viewing your “today’s interest” figure in the Accounts tab.  You can also see how much interest you are due to receive for the current month in your account breakdown, accessible in Accounts > Tap on your account > Breakdown. 
+Additionally, you can find an example of how much interest you could earn for your account in the Summary Box found on our website, which can be accessed by selecting your chosen account under the ‘Savings’ heading, and scrolling down. 
+Please note that our advertised interest rates are annual equivalent rates (AER) and our rates are also variable, which means they could go up or down in future.
+------------------------------
+Title: What savings accounts do Moneybox offer?
+Content: We currently offer two types of savings products – regular access and Notice Accounts. With Notice Accounts, you need to give us notice before you take your money out, and in exchange these tend to offer higher interest rates compared to the regular access savings products. 
+We also offer an account without a notice period – the Simple Saver. Any withdrawals made from this account are paid the next available working day, however you are limited to one withdrawal per calendar month. This account is also powered by Santander International and currently offers a rate of 4.00% AER (variable). 
+The Notice Accounts we offer are: 
+Depending on which account you have open, you’ll need to give either 32 days, 45 days, 95 days, or 120 days notice to make a withdrawal. Once you request a withdrawal in the app, after your notice period has passed, you will receive your funds the next working day. 
+All of our cash savings accounts are also fully FSCS protected for up to £85,000. Please note that this limit is per bank, meaning any other savings you hold with the same partner banks mentioned above will also count towards this £85,000 limit.
+------------------------------
+Title: How can I pay into my savings account?
+Content: Payments into all of our savings accounts are made from your linked current account. You can check which account you have linked in the app in Settings > Tap your name > Bank accounts > Linked account.
+You can deposit up to £85,000 total into each of our savings accounts, which is also the maximum amount which can be deposited at once. The minimum amount you can deposit is £1.
+Your deposits will be added to your upcoming collection, which is visible in the app under the Home tab. On Wednesday at midday, we’ll collect your upcoming collection, and then debit this from your bank account via direct debit early the following week (usually on Monday). You’ll see this added to your balance the next day after the direct debit, and will begin accruing interest on the Thursday.
+For cash accounts, interest is calculated daily and paid out on the first working day of the month.
+------------------------------
+Title: What is the Simple Saver and how does it work?
+Content: The Simple Saver is a savings account powered by Santander International which allows you to save and withdraw flexibly.
+The account has an underlying interest rate of 4% AER (variable) – this is the rate you will earn after a year, including compounding. The interest rate may change.
+You can pay in up to £85,000 in total and can keep the account open for as long as you like. Withdrawals can be requested in the app in Settings > Withdraw and are limited to one per calendar month. Any requested withdrawal will be paid back to you on the next working day.  
+We do not charge a customer service fee for our Simple Saver. Instead, we will retain the difference (if any) between the interest received from the third party bank and the amounts paid on your product.
+If you hold a balance of above £0 in a qualifying Moneybox account (ISA, LISA, JISA, or Pension), you’ll earn a reward rate of 1% (variable) on top of the underlying rate of 4% AER (variable). This gives you a reward rate of 5% AER (variable).
+------------------------------
+Title: What is the Simple Saver reward rate?
+Content: You can earn a reward rate of 1% (variable) on top of the underlying rate of 4% AER (variable) for your Simple Saver, giving you a total reward rate of 5% AER (variable).
+You’ll earn this reward rate if you have a balance above £0 in a qualifying Moneybox account (ISA, Lifetime ISA, Junior ISA, or Pension), or you have a Reward Savings Account. You’ll continue to earn the reward rate for as long as you meet this eligibility criteria.
+
+If your balance in your Lifetime ISA drops to £0 then you are eligible to keep the reward rate for 12 months or until 13/02/2025, whichever date is later.
+Once you qualify for the reward rate, you’ll start earning 5% the next working day, and will receive an email to confirm. 
+You’ll need to make sure you’re on the latest app version to see your reward rate reflected in the app.
+------------------------------
+Title: What’s the eligibility criteria for the Simple Saver reward rate?
+Content: You can earn a 5% AER (variable) reward rate on your Simple Saver if you have either:
+If your balance in your Lifetime ISA drops to £0 then you are eligible to keep the reward rate for 12 months or until 13/02/2025, whichever date is later.
+You’ll need to make sure you’re on the latest app version to see your reward rate reflected in the app.
+------------------------------
+Title: What happens when I want to withdraw from my savings account?
+Content: Withdrawals can be requested in-app (Settings > Withdraw).
+For our Simple Saver, we’ll send your funds to your bank account on the next available working day after your withdrawal is requested in-app.
+For our Notice Accounts, once you initiate a withdrawal, the amount requested continues to earn interest over the notice period. We’ll then send your withdrawal back to your linked bank account on the next available working day after the notice period has ended.
+You’ll receive an email to confirm your withdrawal is complete, and the funds typically arrive in your bank account by the end of the working day.
+You can have multiple withdrawals in progress at once, and you can track the progress of each withdrawal in Accounts > Select account > Recent activity > In progress.
+------------------------------
+Title: What are Notice Accounts?
+Content: Notice Accounts can offer a higher interest rates compared to regular access savings accounts – in exchange for a higher interest rate, you just need to give us notice before you take your money out.
+We currently offer a 32 Day Notice Account and a 95 Day Notice Account. For each, you’ll need to give either 32 days or 95 days notice to make a withdrawal. This means that, after you initiate a withdrawal in the app, it’ll take the respective notice period to receive the funds from the partner bank which powers the account, and once this notice period has passed you will receive your funds the next working day.
+------------------------------
+Title: What if I need the money in my Notice Account straight away?
+Content: It isn’t possible to withdraw from our Notice Accounts without the waiting period, or to expedite the withdrawal process in any way. As such, you should only add funds to a notice account you’re sure you won’t need to access immediately.
+If you aren’t happy with the product, all of our Notice Accounts can be cancelled within 14 days of your first contribution. To cancel, please get in touch with the team via the in-app chat or emailing support@moneyboxapp.com.
+------------------------------
+Title: What are the fees for savings accounts?
+Content: We do not charge a customer service fee for our savings products. Instead, we will receive a fee  from the third party bank where your money is deposited or will  retain the difference (if any) between the interest received from the third party bank and the amounts paid on your product.
+The interest rate you see in the app is the interest rate you will receive.
+------------------------------
+Title: What is a Junior ISA?
+Content: A Junior ISA (JISA) is a savings and investment account for children up to the age of 18. JISAs are an efficient way to save or invest as, like ISAs, they are free from any income or capital gains tax.
+There are two types of Junior ISA – Cash and Stocks & Shares. Moneybox offers a Stocks & Shares Junior ISA, which allows you to invest in a range of tracker funds.
+The JISA is opened and managed by a parent/guardian and you can pay in up to £9,000 per tax year, which does not count towards your own ISA allowance of £20,000. With a Moneybox Junior ISA, you can also receive gifted deposits from friends and family! 
+Once the child turns 18, the account matures into a standard Stocks & Shares ISA which they can access and manage.
+------------------------------
+Title: Can my child have more than one Junior ISA?
+Content: You can pay into one Junior ISA of each type (Cash or Stocks & Shares) per tax year for your child, and the annual contribution limit of £9,000 is shared between your child’s JISAs. For example, you could pay £5,000 into a Cash JISA and £4,000 into a Stocks & Shares JISA for your child in the same tax year.
+The £9,000 contribution limit is per child – meaning if you have multiple children, they each will have an allowance of £9,000 per tax year.
+Contributions you make into a Junior ISA do not count towards your own £20,000 annual ISA allowance.
+------------------------------
+Title: Who can send me a Junior ISA gift?
+Content: Anyone with a UK bank account can send gifts of £100 or more. For our Junior ISA, you can receive as many gifts as you’d like, with each gifter able to deposit up to £9,000 each tax year, or your remaining JISA allowance. 
+For gifters with their own  Junior ISA, sending a gift to someone else’s JISA does not count towards the gifter’s own annual ISA allowance.
+------------------------------
+Title: How do Junior ISA gifts from family and friends work?
+Content: Gifts are a way for loved ones to help give your child a head start in their savings. You can accept gifts into your child’s Junior ISA by generating a link in the Moneybox app, which you can send to your family and friends. They can then follow this link to send a payment of £100 or more to your child’s Junior ISA.
+You can find your gift link in Settings > Share your gift link. Links can be shared with as many people as you’d like, and gifters can send between £100 to £9,000 (or your remaining £9,000 JISA allowance for the current tax year).
+Gifters just need to follow your gift link to securely send their gifts via instant bank transfer – they don’t need to be Moneybox customers themselves. Once they’ve successfully completed a bank transfer, the money will arrive in your child’s JISA within a few minutes, and you’ll both get an email confirming the payment.
+Any gifts you receive will be added to your Junior ISA’s Available Cash, ready to invest. You can keep track of the gifts you’ve received in the app in Accounts > Junior ISA > Recent activity.
+------------------------------
+Title: Am I eligible to open a Moneybox Junior ISA for my child?
+Content: You can open a Moneybox Junior ISA if you are over 18 years old, live in the UK and have parental responsibility for a child under 18 years old. You’ll also need to be an existing Moneybox customer and using the latest version of the app.
+The child must be under the age of 18, a resident in the UK, must not already have a Child Trust Fund and must not already have a Stocks & Shares Junior ISA (or, if they do, you will need to transfer this into the Moneybox Junior ISA).
+You will be known as the ‘Registered Contact’ for the Junior ISA and you will manage that Junior ISA for the child until they turn 18.
+Please note that contributions made into a JISA are considered gifts and belong to the child, so can only be withdrawn by them after their 18th birthday.
+------------------------------
+Title: How can I open a Junior ISA with Moneybox?
+Content: Please note that new Junior ISAs are currently only available to existing Moneybox customers.
+If you’re an existing Moneybox customer and you’re on the latest version of the app, you can open a JISA in the ‘Accounts’ tab. Just tap on Junior ISA in the list of accounts, and you’ll be good to go!
+To open the account you’ll need to provide:
+-The child’s name
+-The child’s date of birth
+-The child’s residential address
+Contributions to the child’s Junior ISA will be made from your linked bank account, which you can check in Settings > Tap your name > Bank accounts.
+------------------------------
+Title: What funds can I invest in?
+Content: We offer three Starting Options for our Junior ISA – Cautious, Balanced and Adventurous. All you need to do is pick one based on your attitude to risk and return.
+ 
+The mix of funds in each legacy Starting Option before 19th December 2018.
+
+Your money will be spread over 300 property companies from around the world, and from different industries including residential housing and shopping centres.
+Outside of your chosen allocation, you can also invest in a broad range of tracker (mutual) funds. You can view our range of tracker funds for JISA in Settings > Allocations. You can also change your investment allocations here at any time should you wish! 
+------------------------------
+Title: Who can contribute to a Moneybox Junior ISA?
+Content: Any contributions to a Moneybox Junior ISA must come from the ‘Registered Contact’, or via their unique gift link that can be shared with friends and family directly through the app. You can receive gifts from as many people as you’d like, however, please note that we can only accept deposits from a UK bank account. 
+You can find more information on how Junior ISA Gifts work here. 
+Please note that any contributions into a Junior ISA, whether made by yourself as the Registered Contact or via a gift, cannot be withdrawn until the child turns 18.
+------------------------------
+Title: Can I withdraw from my child’s Moneybox Junior ISA?
+Content: No. Money paid into a Junior ISA is considered a gift, which means it can only be withdrawn by the child after they turn 18 (except in cases of terminal illness or death).
+If you’re within 30 days of your first contribution into a Junior ISA, you can cancel the account within the cancellation period by getting in touch with our Support team via the in-app chat, or by emailing support@moneyboxapp.com.
+------------------------------
+Title: Can I transfer in an existing Junior ISA?
+Content: Yes! Your child can only have one Junior Stocks & Shares ISA at a time, however, you can transfer an existing Junior ISA from one provider to another at any time.
+To transfer a JISA to Moneybox, you can get started by requesting a transfer in form in Accounts > Transfer > Transfer In. 
+All transfers are processed digitally, so you’ll need to return any completed transfer forms either via the in-app chat, or by email. Once we’ve received your completed form, most transfers are typically complete within 3 weeks. When transferring a Junior ISA to us, please ensure that the registered contact for both the existing JISA and the Moneybox JISA are the same. 
+If you choose to transfer a Moneybox JISA to another provider, once we receive the transfer out request from your new provider, the process is typically complete within 1-2 weeks.
+------------------------------
+Title: How much can I pay into a Junior ISA?
+Content: The maximum amount you can pay into a JISA in the current tax year is £9,000 per JISA. Contributions into a JISA don’t count towards your own ISA allowance of £20,000 per tax year.
+The minimum amount you can pay into a Moneybox Junior ISA is £1. If you are making an instant bank transfer or receiving a Junior ISA Gift, the minimum payment is £100.
+ Please note that any contributions into a Junior ISA can only be withdrawn by the child once they turn 18, and so cannot be repaid.
+------------------------------
+Title: What are your fees?
+Content: Moneybox charges two fees, which are calculated daily and charged at the end of each month:
+You will also pay annual fund fees which cover fund management and transaction costs. These are available on the Key Investor Information Document for each fund. They are charged by the fund provider rather than Moneybox, so are included when the fund provider calculates the value of your investments and are subject to change. You can find a full list of our available funds and their fees here on our website.
+------------------------------
+Title: Does opening a Moneybox Junior ISA for my child impact my own annual ISA allowance?
+Content: No – the Moneybox Junior ISA belongs to your child, and therefore does not impact your own annual ISA allowance of £20,000. You can pay up to £9,000 per tax year into each child’s Junior ISA.
+------------------------------
+Title: What happens to my child’s Junior ISA when they turn 18?
+Content: When your child reaches 18, their Junior ISA will automatically convert into a standard Stocks & Shares ISA with Moneybox.
+We’ll get in touch with you three months before your child’s birthday to confirm their details, and further payments into the JISA will be frozen one month before your child’s birthday, ready for us to move their full balance over to their new ISA.
+On your child’s 18th birthday we’ll reach out to them to help them access their new Moneybox account.  Their JISA balance will be transferred across to a Stocks & Shares ISA in their name, which they can access via their own Moneybox account.
+------------------------------
+Title: What if my child already has a Child Trust Fund?
+Content: We are currently unable to accept transfers in of Child Trust Funds. If your child already has a Child Trust Fund, unfortunately we cannot provide them with a Junior ISA at this time.
+If you would like to be kept informed about when we are able to accept transfers in of Child Trust Funds, please email us at support@moneyboxapp.com.
+------------------------------
+Title: Is the Moneybox Junior ISA protected by the Financial Services Compensation Scheme (FSCS)?
+Content: Yes. The Financial Services Compensation Scheme (FSCS) has been set up to deal with compensation if firms are unable to meet claims made against them. The maximum claim that could be made under the Moneybox Junior ISA is £85,000. In addition, if any of the banks which are used for depositing cash balances are declared in default, each individual is entitled to 100% of the first £85,000 in total, in compensation for losses across all their deposits with that bank.
+In the unlikely event that your child was to suffer financial loss directly because a fund manager of a Unit Trust or OEIC became insolvent, you will be able to claim under the investment business section of the FSCS. Each FCA authorised UK based fund manager will qualify for the investment element of the FSCS. If a fund manager becomes insolvent and is unable to return the money, your child will be protected for 100% of the first £85,000 held within it.
+Further information about the compensation arrangements is available from the Financial Services Compensation Scheme at www.fscs.org.uk. 
+Please note that the compensation schemes described above do not cover a fall in the value of the Junior ISA investments.
+------------------------------
+Title: What if I change my mind?
+Content: You can cancel your Moneybox Junior ISA within 30 days from the day funds have first been collected from the Moneybox app. If you have opened your Junior ISA via transfer from another provider, you will have 30 days from the date your transfer is received to exercise your right to cancel. We cannot return your Junior ISA to the provider you made a transfer from, therefore, if you chose to cancel once the transfer has taken place you will need to arrange for another Junior ISA provider to accept the transfer.
+To cancel a JISA, please get in touch with the team via the in-app chat, or by emailing support@moneyboxapp.com.
+If you have invested in assets during this period, these will be sold and you will receive back your original contribution (minus any shortfall). Where a profit has been made, you will receive your original contribution amount.
+Once the cancellation period has ended, funds can only be withdrawn from a Junior ISA by the child once they turn 18, except in cases of terminal illness or death.
+-----------------------------
+Title: How do transfers work?
+Content: You can start a transfer in of an existing ISA, Lifetime ISA, or Junior ISA to Moneybox via the app in Settings > Transfer in an existing ISA. Please note that you’ll need to be on the latest version of the app to see this option.
+Once you’ve submitted your details, we’ll contact your provider directly and most transfers will typically complete within 3 weeks, with Cash ISA transfers usually completing within 15 days.
+Your provider will send your funds electronically, along with a ‘transfer history form’ and all the information about the account you’re transferring from so we can complete the transfer. Then, once the payment is received, our finance team will apply the funds to your Moneybox account, and the transfer is complete!
+------------------------------
+Title: I want to transfer in an ISA which has a maturity date.
+Content: If you’re looking to transfer in an ISA from another provider which has a maturity date, it’s best to wait until this has matured before starting a transfer in. This is because providers are typically unable to hold your transfer until your maturity date and may reject the transfer request or apply an early closure penalty.
+Once your ISA has matured, you can start a transfer in Settings > Transfer in an existing ISA.
+------------------------------
+Title: Which ISA providers do you support for transfers in?
+Content: We’re able to accept transfer requests from most ISA or Lifetime ISA providers, as long as they are able to process transfers electronically. 
+If you’re looking to transfer in an ISA or Lifetime ISA from Foresters Financial or Ulster Bank, please get in touch via the in-app chat, or by emailing support@moneyboxapp.com, and our team can provide you with a transfer in form – please note that this form will need to be printed out and signed, as this provider does not accept digital signatures.
+At the moment, we cannot facilitate transfers for the following providers:
+Please note there may also be other providers besides those listed above that we’re not able to accept transfers from, if they cannot facilitate electronic transfers.
+------------------------------
+Title: How do I transfer an ISA or Lifetime ISA to Moneybox?
+Content: To get started, you’ll need to be on the latest version of the app, and have the account you’re looking to transfer into (e.g. a Stocks & Shares ISA, Cash ISA, or Lifetime ISA) open with us. Then, you can request a transfer in Settings > Transfer in an existing ISA.
+Once you’ve submitted your details, most transfers are typically complete within 3 weeks, with Cash ISA transfers typically completing within 15 days. For ISA to Lifetime ISA transfers, the subscription date of the transfer will be the date we receive the payment and documentation from your current provider.
+If you’re transferring an existing Lifetime ISA to one of our Lifetime ISAs, the original opening date of your existing LISA will carry over.
+Please note that all transfers in must be processed digitally. You can find out more about which providers are supported here.
+If you’re looking to transfer in an ISA or Lifetime ISA from Foresters Financial, please get in touch via the in-app chat, or by emailing support@moneyboxapp.com, and our team can provide you with a transfer in form – please note that this form will need to be printed out and signed, as this provider does not accept digital signatures.
+ 
+------------------------------
+Title: What is an in-specie transfer?
+Content: An ‘in-specie’ transfer refers to a method of transferring an investment account to another provider. In-specie transfers involve moving your specific units in a tracker fund or ETF across to your new Stocks & Shares ISA/LISA provider, rather than selling down your investments and moving the proceeds across as cash. Please note that, in order for this to be available, your new provider would need to offer the same funds/ETFs that you currently invest in with Moneybox.
+For transfers out, if you are investing in US stocks, please note we are unable to transfer these to your new provider in-specie and your holdings in any US stocks will need to be sold down.
+In-specie transfers typically take up to 6 weeks to complete. You can also opt for a ‘mixed’ transfer, which means we transfer some of your balance across in-specie and the rest as cash.
+------------------------------
+Title: How long does a transfer take?
+Content: Transfers in
+For investment products, your provider has up to 30 days from the date they receive a transfer request to complete the transfer. For cash products, this period is 15 days. For ISA to LISA transfers, please note that the subscription date of the transfer will be the date we receive the payment and documentation from your current provider. 
+Most transfers take between 2-3 weeks in total, and once your existing provider has sent your transferred funds, these can take a few working days to reach us – our team will keep you up to date throughout the process!
+Transfers out
+This can vary between transfers, however once we receive the request from your provider, we double check all the details of the request and perform a bank verification check. Once this is done, the transfer process itself typically takes from 1-3 weeks to complete. For ‘in-specie’ transfers out from investment accounts, this process typically takes longer – see ‘What is an in-specie transfer?’ for more information.
+------------------------------
+Title: How do I transfer my Moneybox ISA or LISA to another provider?
+Content: If you’d like to transfer a Moneybox ISA, LISA, or Junior ISA out of Moneybox and to another provider, you’ll just need to contact your new ISA provider to get the transfer process started –  they will send you their transfer in form and give you the steps you’ll need to follow.
+If your new provider asks for an account number or reference, for our ISAs and Lifetime ISAs this would be your National Insurance number. For our Junior ISAs, this is the child’s name and date of birth.
+All transfers are performed digitally and we are no longer processing posted transfer forms – to make sure your transfer reaches us, please request your new ISA, LISA or Junior ISA provider send their paperwork to transfers@moneyboxapp.com.
+Please note that if you are transferring out to another provider, it isn’t currently possible to transfer back to Moneybox once the transfer out is complete.
+------------------------------
+Title: How do I transfer a Junior ISA to Moneybox?
+Content: Once you have opened a Junior ISA, you can request a transfer in form in Settings > Transfer in an existing ISA. 
+All transfers are processed digitally, so you’ll need to return any completed transfer forms either via the in-app chat, or by email. Once we’ve received your completed form, most transfers are typically complete within 3 weeks.
+When transferring a Junior ISA to us, please ensure that the registered contact for both the existing JISA and the Moneybox JISA are the same.
+------------------------------
+------------------------------
+Title: Is my money secure?
+Content:We are authorised and regulated by the Financial Conduct Authority (FCA) with firm reference number 712935 (and number 792703 for payment services activities) and so are subject to strict capital adequacy and systems & controls requirements.
+
+Moneybox is also covered by the Financial Services Compensation Scheme (FSCS), which is a government fund that exists to help consumers in the event of a firm failing. You are protected for 100% of the first £85,000 per financial institution.
+
+Please click here to find out more about FSCS protection for your account.
+
+------------------------------
+Title: Are my savings covered by the Financial Services Compensation Scheme (FSCS)?
+Content:The Financial Services Compensation Scheme (FSCS) is a government fund that exists to help consumers in the event of a firm failing. Your deposits are protected for 100% of the first £85,000 per financial institution.
+
+All the accounts Moneybox offers are FSCS protected. A breakdown of FSCS protection per product can be found on our FSCS page.
+------------------------------
+Title: My phone has been lost or stolen. What should I do?
+Content:Please contact our Support team at support@moneyboxapp.com and a member of the team will be able to help out.
+------------------------------
+Title: How do I report unauthorised access to my account?
+Content:If you notice anything suspicious, such as changes to your account that you do not recognise, or believe that someone has accessed your account without your permission, please contact our Support Team at support@moneyboxapp.com, or give us a call on 0330 808 1866 as soon as possible, and the team will assist you.
+------------------------------
+Title: What data do you access for round ups and how do you keep it safe?
+Content: If you choose to use round ups, you’ll need to use your online banking log in details to establish a secure connection with your financial institution on a read-only basis. Whether it’s a bank, building society or credit card provider, these details allow you to view your transaction history and round ups via the app.
+
+Moneybox does not directly access or store your online banking login details. Only a limited number of Moneybox staff will have access to your other customer details, in order for us to provide you with our products and service. This access is managed under a strict privacy policy and is for authorised staff members only.
+
+Moneybox is a registered Third Party Provider (TPP) of Open Banking technology. Open Banking allows Moneybox to sync your accounts and transactions using a secure Application Programming Interface (API). An API is software that enables the exchange of information between programs and authorises a specific operation.
+
+For all your round up connections, you will be taken to your own bank’s authorisation screen in order to confirm and authenticate your connection to Moneybox. Your bank login credentials will never be sent to Moneybox. Your transaction and account data is immediately encrypted and stored using multi-layered hardware and software encryption.
+
+Further information relating to round up services can be found in section 1, heading 11.1 of the Moneybox Terms & Conditions.
+
+Title: How much money should I have in my pension?
+Content: It’s easy to assume you’ll need a similar income in retirement as during your working life to maintain your lifestyle. However, many people find they spend less when they stop working.
+A helpful rule of thumb might be to aim for a budget of around two thirds (67%) of working your salary to enjoy a comfortable lifestyle.
+This guideline assumes that you’ll reduce some of your expenses (like your mortgage payments and childcare), so the remaining income is similar to what you’ve been used to living on.
+What do other people spend in retirement?
+Research by the Pensions and Lifetime Savings Association (PLSA) suggests the following guidelines, although these are likely to increase over time. Please note the figures shown are after tax. Refer to PLSA guidance for the suggested pre-tax income to meet these targets.
+ 
+------------------------------
+Title: What are the different types of Pension?
+Content: You could end up with different types of pension depending on whether you’re employed or self-employed, and the pensions available from a particular employer.
+The State Pension is from the government and the amount you get is based on your National Insurance contributions. If you qualify for the full State Pension, the weekly rate is £203.85, or about £10,600 a year. For more information on the State Pension, see GOV UK state Pensions.
+These are pensions provided by the firm you work for, so they’re also known as occupational or company pensions. Employers must now enrol their staff into a workplace pension if they are older than 22, earn more than £10k, and usually work in the UK – this is known as auto-enrolment.
+If you don’t have a workplace pension, for example, if you’re self-employed, a personal pension can be a good way to save for retirement. There are two types of personal pension: stakeholder pensions and self-invested personal pensions.
+------------------------------
+Title: How much should I be paying into my pension?
+Content: The amount you should be paying into your pension depends entirely on your own circumstances. If you’re unaware of some of the tax benefits you get with having a workplace or personal pension then read our handy guide below.
+Tax benefits
+For both workplace and personal pensions, when you pay into your pension you get tax relief on the amount you pay in – think of it as a gift from the government!
+The tax relief is set at the highest rate of income tax you pay. If you’re paying the basic rate of tax (20%) in England, you get 20% tax relief. If you want to contribute £100 from your salary it will only cost you £80; the government will add £20 – the tax it would have otherwise taken.
+You can find more information on the different limits and exceptions that apply to tax relief on the GOV UK Tax on private pensions page.
+Contributions from your employer
+As part of auto-enrolment in workplace pensions, you and your employer must make minimum contributions to your pension. These minimum contributions are based on your earnings and are currently set at 3% for your employer and 5% for you.
+What if I don’t have an employer?
+If you’re self-employed and pay into a pension you won’t get employer contributions (because you’re your own boss), but you’ll still get the tax benefits from the government. Your pension provider usually claims the 20% tax benefit and adds this to your pot. If you’re a higher rate tax payer, you can claim back the additional tax relief due to you through your self-assessment tax return.
+Research by pension provider Royal London estimates that, assuming lower living costs in retirement (e.g. hopefully you won’t still be paying for a mortgage), you need an income of £17,500 a year to live comfortably. To get an income of £17,500, you need a final pension pot of £260k to get a retirement income of £9,000 a year to combine with the full state pension of £8,500. Our retirement calculator, available through the Moneybox app, can help you visualise this.
+------------------------------
+Title: Why should I care about pensions?
+Content: Pensions provide the cash to live off when you retire – the more money you put away into a pension, and the sooner you start, the more you will have to live off in retirement. You’re likely to need more cash than the state pension will provide, so most people also have other pensions that they pay into. Three out of five 25-34 year olds have an additional pension.
+Start now!
+The sooner you start, the longer your pension pot has to grow. To live comfortably in retirement takes a bigger pension pot than you might expect.
+Free cash
+By paying into a pension, money that would have gone to the government as income tax goes into your pension – if you’re a basic-rate taxpayer, for every £80 you pay into your pension, the government will add an extra £20. If you pay into a pension organised by the company you work for, you also get free cash from your employer!
+Follow the money
+Losing track of your pensions might mean you lose out on the money that’s due to you. People have on average 11 jobs during working lives, which can make keeping track of old pensions tricky. Currently, there is £400m in unclaimed pension savings in UK so make sure you know where your pensions are.
+------------------------------
+Title: What are ‘defined benefit’ and ‘defined contribution’ pensions?
+Content: Most pensions available today are defined contribution pensions. In this type of pension, the amount contributed is known (so ‘defined contribution’) but the outcome is not – the pension you get at retirement depends on how much has been paid in, the performance of the investments over time and the charges you pay.
+You may have a defined benefit pension if you work in the public sector or for a large company.
+Here, the benefit you get at retirement is defined by how long you’ve been part of the scheme and how much you earn (so ‘defined benefit’), and it is the employer that’s responsible for making sure there is enough money in the pension to pay each member the amount promised.
+It’s worth noting we can only transfer any pensions from the first category, as we’re unfortunately unable to process any defined benefit pension transfers.
+If you’re looking to know more about the pension we offer, then check out our personal pension page.
+------------------------------
+Title: How much can I contribute to my pension?
+Content: We currently allow you to contribute up to £60,000 per year into your Moneybox Pension. However, you should be aware that there are limits to the level of contributions that attract tax relief. You can benefit from tax relief on up to 100% of your earnings each year on contributions across all your pension schemes, provided you don’t exceed the annual allowance (£60,000). 
+For those earning less than £3,600, you can still contribute £2,880 to your pension, totalling £3,600 with tax relief applied. 
+Contributions include everything you pay into your pension, your employer’s contributions and any tax relief top-ups from the government. 
+Refer to our article “What is pension tax relief” for more detail on the different limits that can apply.
+------------------------------
+Title: What happens when I leave a company?
+Content: When you change jobs, it’s likely you’ll leave behind a pension. While you and your old employer will no longer contribute to that old pension, the pension will continue to grow over the long term with the performance of the funds it’s invested in.
+Keeping track of your old pensions can be difficult, but it’s worthwhile; if you forget about a pension you could miss out on thousands of pounds worth of investments when you retire. If you’ve lost track of old pensions, and how much is in them, there are a number of ways you can find them – you can find out more on the Trace Lost Pensions page.
+------------------------------
+Title: Does it make sense to combine pension pots?
+Content: If you’re considering combining your pension pots, it’s important to consider the fees you’re being charged on your old pensions. If another provider offers lower fees, you could benefit from switching. You may also want to look at any exit fees your current provider charges.
+When you combine pension pots it makes it easier to keep track of them in one place, so you benefit from all your personal pension investments at retirement.
+------------------------------
+Title: Where does my money go?
+Content: Your pension contributions are usually invested into funds, which give you access to a range of different investments.
+Funds may specialise in a particular type of investment (the asset type), for example, shares in companies, which are also known as equities. An equity fund will spread the risk by investing in the shares from many companies, so if one particular company does badly the effect on the whole fund is limited.
+Other funds invest in a mix of asset types, for example, both equities and bonds, which are like an IOU from a company or government. These funds spread the risk of investing across different companies (for equities and company bonds) or governments (for government bonds), and spread the risk across different asset types.
+Lifestyle funds invest in a mix of asset types, but the proportion that is invested in each asset type changes as you get closer to retirement. The reason for this is that some asset types tend to be lower risk than others, for example, bonds are generally lower risk than equities. Lifestyle funds use this difference and invest more in higher risk and potentially higher return assets to start, then to reduce the uncertainty about the value of your pension pot in the run up to retirement they switch to lower risk, lower return assets.
+We’ve mentioned the importance of investing in different types of assets and in different companies – this is known as diversification. Another important form of diversification is to invest in assets from different countries. All Moneybox funds invest across a broad range of companies.
+------------------------------
+Title: How much should I expect to pay in fees?
+Content: Fees are important because they reduce the performance of your pension, and over the long term even small differences in fees can have a big impact on the money you end up with. The funds used for auto-enrolment can charge at most 0.75% annually. 
+You should carefully compare the fees charged on any old pensions with other pensions available – where cheaper options are available, you may want to switch.
+------------------------------
+Title: Should I consider a personal pension or a Lifetime ISA?
+Content: Both pensions and Lifetime ISAs can be used to save for retirement but there are important differences between them, including when you pay income tax.
+Your contributions into a pension aren’t taxed, but you pay tax on the money you withdraw from it during retirement. A Lifetime ISA is the other way around: you contribute money you’ve already paid tax on, but eligible withdrawals are tax-free.
+For most people, it makes sense to pay into a personal pension rather than a Lifetime ISA, but this depends on tax rates or the age when you want to access your investments. A Lifetime ISA could be relevant if you’re self-employed, earning less than £10,000 from a single employer, not working, or if you expect to pay a higher tax rate in retirement than you do in work.
+As this will depend on your individual circumstances, you’ll need to assess the benefits of a pension or a Lifetime ISA. Which? have produced this handy article which may also be of interest to you, but if you’re unsure, we recommend seeking independent financial advice.
+------------------------------
+Title: Why do I need to set up a Direct Debit for my pension?
+Content: To make contributions to your pension, and to help us verify your identity, you will need to link your Moneybox with a UK current account held in your name and set up a Direct Debit. 
+Setting up a Direct Debit does not mean you need to make payments into your account, and we will only ever collect funds if you instruct us to do so in-app.
+It’s worth noting that you can only link one UK current account to your Moneybox, and we are unable to accept links with a business account, savings account, or a UK current account held in someone else’s name.
+------------------------------
+------------------------------
+Title: How much money should I have in my pension?
+Content: It’s easy to assume you’ll need a similar income in retirement as during your working life to maintain your lifestyle. However, many people find they spend less when they stop working.
+A helpful rule of thumb might be to aim for a budget of around two thirds (67%) of working your salary to enjoy a comfortable lifestyle.
+
+This guideline assumes that you’ll reduce some of your expenses (like your mortgage payments and childcare), so the remaining income is similar to what you’ve been used to living on.
+
+What do other people spend in retirement?
+
+Research by the Pensions and Lifetime Savings Association (PLSA) suggests the following guidelines, although these are likely to increase over time. Please note the figures shown are after tax. Refer to PLSA guidance for the suggested pre-tax income to meet these targets.
+
+
+
+Retirement Lifestyle	Single	Couple
+Basic	£14,400	£22,400
+Moderate	£31,300	£43,100
+Comfortable	£43,100	£59,000
+------------------------------
+Title: What are the different types of Pension?
+Content: You could end up with different types of pension depending on whether you’re employed or self-employed, and the pensions available from a particular employer.
+
+The State Pension
+The State Pension is from the government and the amount you get is based on your National Insurance contributions. If you qualify for the full State Pension, the weekly rate is £203.85, or about £10,600 a year. For more information on the State Pension, see GOV UK state Pensions.
+
+Workplace pensions
+These are pensions provided by the firm you work for, so they’re also known as occupational or company pensions. Employers must now enrol their staff into a workplace pension if they are older than 22, earn more than £10k, and usually work in the UK – this is known as auto-enrolment.
+
+Personal pensions
+If you don’t have a workplace pension, for example, if you’re self-employed, a personal pension can be a good way to save for retirement. There are two types of personal pension: stakeholder pensions and self-invested personal pensions.
+------------------------------
+Title: How much should I be paying into my pension?
+Content: The amount you should be paying into your pension depends entirely on your own circumstances. If you’re unaware of some of the tax benefits you get with having a workplace or personal pension then read our handy guide below.
+
+Tax benefits
+
+For both workplace and personal pensions, when you pay into your pension you get tax relief on the amount you pay in – think of it as a gift from the government!
+
+The tax relief is set at the highest rate of income tax you pay. If you’re paying the basic rate of tax (20%) in England, you get 20% tax relief. If you want to contribute £100 from your salary it will only cost you £80; the government will add £20 – the tax it would have otherwise taken.
+
+You can find more information on the different limits and exceptions that apply to tax relief on the GOV UK Tax on private pensions page.
+
+Contributions from your employer
+
+As part of auto-enrolment in workplace pensions, you and your employer must make minimum contributions to your pension. These minimum contributions are based on your earnings and are currently set at 3% for your employer and 5% for you.
+
+What if I don’t have an employer?
+
+If you’re self-employed and pay into a pension you won’t get employer contributions (because you’re your own boss), but you’ll still get the tax benefits from the government. Your pension provider usually claims the 20% tax benefit and adds this to your pot. If you’re a higher rate tax payer, you can claim back the additional tax relief due to you through your self-assessment tax return.
+
+Research by pension provider Royal London estimates that, assuming lower living costs in retirement (e.g. hopefully you won’t still be paying for a mortgage), you need an income of £17,500 a year to live comfortably. To get an income of £17,500, you need a final pension pot of £260k to get a retirement income of £9,000 a year to combine with the full state pension of £8,500. Our retirement calculator, available through the Moneybox app, can help you visualise this.
+------------------------------
+Title: Why should I care about pensions?
+Content: Pensions provide the cash to live off when you retire – the more money you put away into a pension, and the sooner you start, the more you will have to live off in retirement. You’re likely to need more cash than the state pension will provide, so most people also have other pensions that they pay into. Three out of five 25-34 year olds have an additional pension.
+
+Start now!
+The sooner you start, the longer your pension pot has to grow. To live comfortably in retirement takes a bigger pension pot than you might expect.
+
+Free cash
+By paying into a pension, money that would have gone to the government as income tax goes into your pension – if you’re a basic-rate taxpayer, for every £80 you pay into your pension, the government will add an extra £20. If you pay into a pension organised by the company you work for, you also get free cash from your employer!
+
+Follow the money
+Losing track of your pensions might mean you lose out on the money that’s due to you. People have on average 11 jobs during working lives, which can make keeping track of old pensions tricky. Currently, there is £400m in unclaimed pension savings in UK so make sure you know where your pensions are.
+------------------------------
+Title: What are ‘defined benefit’ and ‘defined contribution’ pensions?
+Content: Most pensions available today are defined contribution pensions. In this type of pension, the amount contributed is known (so ‘defined contribution’) but the outcome is not – the pension you get at retirement depends on how much has been paid in, the performance of the investments over time and the charges you pay.
+
+You may have a defined benefit pension if you work in the public sector or for a large company.
+
+Here, the benefit you get at retirement is defined by how long you’ve been part of the scheme and how much you earn (so ‘defined benefit’), and it is the employer that’s responsible for making sure there is enough money in the pension to pay each member the amount promised.
+
+It’s worth noting we can only transfer any pensions from the first category, as we’re unfortunately unable to process any defined benefit pension transfers.
+
+If you’re looking to know more about the pension we offer, then check out our personal pension page.
+------------------------------
+Title: Should I consider a personal pension or a Lifetime ISA?
+Content: Both pensions and Lifetime ISAs can be used to save for retirement but there are important differences between them, including when you pay income tax.
+
+Your contributions into a pension aren’t taxed, but you pay tax on the money you withdraw from it during retirement. A Lifetime ISA is the other way around: you contribute money you’ve already paid tax on, but eligible withdrawals are tax-free.
+
+For most people, it makes sense to pay into a personal pension rather than a Lifetime ISA, but this depends on tax rates or the age when you want to access your investments. A Lifetime ISA could be relevant if you’re self-employed, earning less than £10,000 from a single employer, not working, or if you expect to pay a higher tax rate in retirement than you do in work.
+
+As this will depend on your individual circumstances, you’ll need to assess the benefits of a pension or a Lifetime ISA. Which? have produced this handy article which may also be of interest to you, but if you’re unsure, we recommend seeking independent financial advice.
+------------------------------
+Title: Why do I need to set up a Direct Debit for my pension?
+Content: To make contributions to your pension, and to help us verify your identity, you will need to link your Moneybox with a UK current account held in your name and set up a Direct Debit.
+
+Setting up a Direct Debit does not mean you need to make payments into your account, and we will only ever collect funds if you instruct us to do so in-app.
+
+It’s worth noting that you can only link one UK current account to your Moneybox, and we are unable to accept links with a business account, savings account, or a UK current account held in someone else’s name.
+------------------------------
+Title: What is Moneybox Mortgages?
+Content: Moneybox Mortgages is our free service to help find the right mortgage for you. We have access to thousands of mortgage deals from over 90 lenders, so you can be confident we’ll find the best option for your circumstances. When we’ve found a mortgage that’s right for you, our experienced advisers can quickly get your application underway. We can also offer helpful advice whenever you need it, via email, phone or instant messenger. Best of all, this service is completely free, so you can relax knowing you’re not paying unnecessary broker fees.
+
+Moneybox Mortgages is provided by Moneybox Mortgages Ltd.
+
+Your home may be repossessed if you do not keep up repayments on your mortgage.
+------------------------------
+Title: Can you still help me if I’m not ready to apply for a mortgage?
+Content: f you’re not ready just yet, we can still help! Head in-app to the Mortgages tab within Accounts to explore helpful tools and content for every step of your journey. Why not try our house deposit and mortgage calculators to see how much you need to save or how much you could borrow? Check out our guides on everything from budgeting for your mortgage to understanding stamp duty. These are also available on our web blog.
+
+Moneybox Mortgages is provided by Moneybox Mortgages Ltd.
+
+Your home may be repossessed if you do not keep up repayments on your mortgage.
+------------------------------
+Title: What can you help me with?
+Content: Whether you’re buying a home or remortgaging, we’re here to help. Here are some of the things we can assist with, all free of charge:
+
+Recommending helpful tools and content for every step of your journey
+Finding the right mortgage for you, from thousands of deals at over 90 lenders
+Submitting your mortgage application for you
+Following up with your chosen lender, solicitor and estate agent, so you can get into your new home quicker
+Taking care of the process to withdraw your Lifetime ISA funds
+Giving tailored, free advice about mortgages or home-buying
+Your home may be repossessed if you do not keep up repayments on your mortgage.
+Title: Does the customer need to complete an investor declaration?
+Content: We no longer process or require investor declarations to withdraw LISA funds. However, if you would like the customer to complete one for your own records, a model form can be accessed on the HMRC website.
+------------------------------
+Title: Should I request a full or partial withdrawal?
+Content: You can request a partial withdrawal for a specific amount, a full withdrawal of the customers’ current balance (which will include any accrued interest or investment gains/losses if applicable but won’t include any pending LISA bonuses), or a full withdrawal plus any pending bonuses once we receive them from HMRC.
+
+If your customer holds a Stocks & Shares LISA, we cannot guarantee the final amount you will receive as their balance is subject to market fluctuations until their funds have been sold. If a withdrawal of a specific amount is requested, we will sell down a portion of their holdings according to this instruction, but you may receive more or less than the requested amount.
+
+Please discuss these options with the customer if you are unsure which option to choose.
+------------------------------
+Title: What can Lifetime ISA funds be used for?
+Content: Lifetime ISA funds must be used directly towards the purchase price of the property. They can be used towards the exchange deposit, for the funds payable upon completion, or in-part for both.
+
+Please note, HMRC put the onus on the conveyancer to ensure that the property purchase completes within 90 days of the withdrawal. If the purchase does not complete within 90 days then the conveyancer must either request an extension (of up to an additional 90 days) or return the funds to Moneybox in full.
+
+Failure to do so could result in the customer being charged the 25% withdrawal penalty by HMRC, so please consider this when using LISA funds for non-refundable exchange deposits.
+LISA funds cannot be used towards other expenses such as stamp duty, solicitors fees, mortgage payments, home furnishings etc. Any unused funds must be returned to the LISA, and should not be transferred directly to the customer under any circumstances.
+------------------------------
+Title: Is my customer’s purchase considered a qualifying property purchase?
+Content: To withdraw for a first-time home purchase, your customer must meet the following requirements:
+If you are unsure on whether your customers’ specific situation meets this criteria set out by HMRC, please contact them directly for further guidance. Moneybox cannot provide you, or the customer, with legal or financial advice. You can find HMRC’s official guidance here.
+------------------------------
+Title: I haven’t received my customer’s pending bonus.
+Content: LISA bonuses are paid at the end of each month, based on the customers’ contributions made the month before. If your customer advises they have a pending bonus payment, there is an option on the withdrawal form to request their current balance, as well as any pending bonuses once we receive these from HMRC.
+
+If you selected the option to withdraw pending bonuses and you have not received these, it is likely because the bonus was received after the ‘date funds are required by’ provided on the withdrawal form. In this case, either you or our mutual customer would just need to get in touch to confirm the purchase has not yet completed and advise us of the estimated completion date.
+If the bonus funds can be sent to you before completion, we will arrange this. Please note that bonus funds cannot be sent after a purchase has completed, as they must be used towards the purchase price of the property. Instead, these funds would be deposited into the customer’s LISA for them to either keep for retirement, or withdraw to their own linked bank account with the 25% withdrawal penalty.
+------------------------------
+Title: Can Moneybox hold documents to be processed at a later date?
+Content: Due to the volume of requests we receive, it is not possible for us to hold documents to process at a later date, so you should only submit the forms when you are in a position to receive the funds. We will process the withdrawal within 5 working days of receiving the completed forms and you will receive the funds within 3 working days for Cash LISAs, or 10 working days for Stocks & Shares LISAs.
+
+Please also note that any pending deposits which haven’t yet been deposited with our partner bank(s), or settled for investment, may impact these timings.
+------------------------------
+Title: Can a Lifetime ISA withdrawal for a property purchase be expedited?
+Content: For Cash LISA withdrawals, we first need to receive the funds from our partner bank(s) before they can be sent to you – which typically takes up to 3 working days. Once we’ve received the funds, we’ll send them by Faster Payments, usually by the end of the next working day. It is possible to send the funds to you earlier in the afternoon of the estimated withdrawal date provided by our Operations team, however, unfortunately we wouldn’t be able to send the funds prior to this.
+For Stocks and Shares LISAs, the withdrawal process cannot be expedited.
+------------------------------
+Title: What if the property purchase falls through, or the funds need to be returned to Moneybox?
+Content: If the property purchase falls through, or you need to return funds for any reason, please contact our Lifetime ISA team by email, and they will confirm next steps. 
+HMRC rules state that you have up to 90 days to complete the property sale from the date we send the funds, however this can be extended by up to a further 90 days if needed. If you an extension is required, this should also be requested by email.
+------------------------------
+Title: Can Lifetime ISAs be used towards a joint property purchase?
+Content: Yes! However, please note that HMRC’s limit on the property value (£450,000) remains the same and does not double in the case of a joint purchase. 
+If both parties are Moneybox Lifetime ISA customers, we’ll process their withdrawals separately, and so would need them to contact us individually to begin the withdrawal process. 
+------------------------------
+Title: What is the process for withdrawing funds from a Lifetime ISA for a solicitor?
+Content: In order to begin the Lifetime ISA withdrawal process, we’ll first need our mutual customer to start the process in the app in Settings > Withdraw > LISA.
+We recommend customers get in touch about one month before you need to use the funds towards the purchase, as the exact withdrawal timings can vary, depending on a few factors covered below.
+This allows them to give us permission to act on their behalf, confirm they meet the eligibility criteria set by HMRC, and provide your contact details. We’ll then contact you directly with a blank conveyancer declaration, which we’ll need you to fill in and return to us. 
+Once we’ve received your form, we’ll process the withdrawal as soon as we can. This can take up to 5 working days while we check your form and verify the details. Once your request has been processed you’ll typically receive the funds within 3 working days for our Cash Lifetime ISA, or 10 working days for our Stocks & Shares Lifetime ISA. Then, once the withdrawal has completed, we’ll send the funds via Faster Payments; typically by the end of the working day.
+Please note, HMRC put the onus on the conveyancer to ensure that the property purchase completes within 90 days of the withdrawal, and you’ll need to notify us once the property sale has completed – this can be done by email.
+------------------------------
+
+
