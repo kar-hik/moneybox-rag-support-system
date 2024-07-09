@@ -1,98 +1,64 @@
-from bs4 import BeautifulSoup
-from seleniumbase import Driver
+import cohere
+from pinecone import Pinecone, ServerlessSpec
+import numpy as np
 
-def scrape_moneybox_support():
-    # Initialize the driver with the User-Agent switch enabled (uc=True)
-    driver = Driver(uc=True)
-    scrapedData = ''
-    try:
-        # Open the webpage
-        driver.get("https://www.moneyboxapp.com/support/")
+co = cohere.Client("feqm6L1rQdncmas9yquTodYg04XgLhJ5iVTFeAxU")
 
-        # Wait for the page to fully load and bypass CAPTCHA (if any)
-        driver.sleep(30)
+with open('scraped.txt', 'r', encoding='utf-8') as file:
+    content = file.read().splitlines()
 
-        # Get page source after CAPTCHA is bypassed
-        page_source = driver.page_source
+embeds = co.embed(
+    texts=content,
+    model='embed-english-v3.0',
+    input_type='search_document',
+    truncate='END'
+).embeddings
 
-        # Parse the page source with BeautifulSoup
-        soup = BeautifulSoup(page_source, 'html.parser')
+shape = np.array(embeds).shape
+print(f"Embeddings shape: {shape}")
 
-        # Find the FAQ section
-        faq_section = soup.find('section', class_="layout_support")
+pc = Pinecone(api_key='69ed45f3-116d-4e7a-a399-566d0dc3bcbe')
 
-        # Find all FAQ tiles within the section
-        faq_tiles = faq_section.find_all('a', class_='col-3 tile')
+index_name = 'cohere-pinecone-scraped-data'
 
-        # Open a file to write the scraped data
-        with open('scraped_data.txt', 'w', encoding='utf-8') as file:
-            # Iterate through each FAQ tile and scrape the data
-            for tile in faq_tiles:
-                try:
-                    title = tile.find('strong', class_='title').text
-                    link = tile['href']
-                    driver.get(link)
-                    driver.sleep(10)
+if index_name not in pc.list_indexes().names():
+    pc.create_index(
+        name=index_name,
+        dimension=shape[1],
+        metric="cosine",
+        spec=ServerlessSpec(
+            cloud='aws',
+            region='us-east-1'
+        )
+    )
 
-                    # Get page source of the FAQ detail page
-                    faq_page_source = driver.page_source
+index = pc.Index(index_name)
+batch_size = 128
 
-                    # Parse the FAQ detail page with BeautifulSoup
-                    faq_soup = BeautifulSoup(faq_page_source, 'html.parser')
+ids = [str(i) for i in range(shape[0])]
+meta = [{'text': text} for text in content]
 
-                    # Find all related question links
-                    ul_elements = faq_soup.find('aside').find('ul')
-                    li_elements = ul_elements.find_all('li')
+to_upsert = list(zip(ids, embeds, meta))
 
-                    for li in li_elements:
-                        try:
-                            related_title = li.text.strip()
-                            related_link = li.find('a')['href']
+for i in range(0, shape[0], batch_size):
+    i_end = min(i+batch_size, shape[0])
+    index.upsert(vectors=to_upsert[i:i_end])
 
-                            # Navigate to the link
-                            driver.get(related_link)
-                            driver.sleep(10)
+print(index.describe_index_stats())
 
-                            # Get the new page source and parse with BeautifulSoup
-                            qn_page_source = driver.page_source
-                            qn_soup = BeautifulSoup(qn_page_source, 'html.parser')
+# Query example
+query = "What protection does the Financial Services Compensation Scheme (FSCS) provide for Moneybox Junior ISA holders?"
 
-                            # Find the content
-                            content_div = qn_soup.find('div', itemprop='acceptedAnswer') or qn_soup.find('div', class_='theiaStickySidebar')
+xq = co.embed(
+    texts=[query],
+    model='embed-english-v3.0',
+    input_type='search_query',
+    truncate='END'
+).embeddings
 
-                            if (content_div):
-                                paragraphs = content_div.find_all('p')
-                                content = "\n".join([paragraph.text for paragraph in paragraphs])
-                            else:
-                                content = "Content not found or this page does not exist."
+print(f"Query embedding shape: {np.array(xq).shape}")
 
-                            # Append the scraped data
-                            scrapedData += f"Title: {related_title}\n"
-                            scrapedData += f"Content: {content}\n"
-                            scrapedData += "-" * 30 + "\n"
-
-                            # Write the scraped data to the file
-                            file.write(f"Title: {related_title}\n")
-                            file.write(f"Content: {content}\n")
-                            file.write("-" * 30 + "\n")
-
-                            # Go back to the initial page
-                            driver.back()
-                            driver.sleep(10)
-                            driver.quit()
-
-                        except AttributeError:
-                            print(f"Related question not found or page does not exist for link: {related_link}")
-                            driver.back()
-                            driver.sleep(10)
-
-                except AttributeError:
-                    print(f"FAQ tile not found or page does not exist for link: {link}")
-                    driver.back()
-                    driver.sleep(10)
-    finally:
-        driver.quit()
-
-    return scrapedData
-
-scrape_moneybox_support()
+# Query the index and print top matches
+res = index.query(vector=xq, top_k=5, include_metadata=True)
+for match in res['matches']:
+    print(f"{match['score']:.2f}: {match['metadata']['text']}")
