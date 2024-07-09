@@ -14,7 +14,6 @@ This project allows you to scrape web content, create embeddings using Cohere, a
 ### Prerequisites
 
 - Python 3.7 or higher
-- Streamlit
 - Cohere API Key
 - Pinecone API Key
 
@@ -30,7 +29,7 @@ cd web-content-qa
 Install the required libraries:
 
 ```bash
-pip install streamlit cohere pinecone-client numpy
+pip install cohere pinecone-client numpy
 ```
 # Set up API keys
 
@@ -54,9 +53,25 @@ Here's a basic example of using BeautifulSoup and Selenium to scrape web content
    pip install beautifulsoup4 selenium
    
 
-### Run the Streamlit Application
+### To Run the Application
+
+**Step 1: Clone the Repository**
+
+Clone the repository to your local machine:
+```bash
+git clone https://github.com/your-repo/web-content-qa.git
+cd web-content-qa
+```
+### Step 2: Run the Pinecone Scrapped Data Script
+
+Execute the `pinecone-scrappeddata.py` script to perform operations and obtain appropriate results:
 
 ```bash
-streamlit run app.py
+python pinecone-scrappeddata.py
 ```
+### Note
+
+**This project currently does not have a front-end; it will be added in a future update.**
+
+Ensure you have Python and necessary dependencies installed as per the project's requirements.
 
